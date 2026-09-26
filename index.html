@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥊</text></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SF6 Oki Master</title>
+    <meta name="description" content="基于 FAT (Frame Assistant Tool) 权威帧数数据库的街霸6全角色压起身、消帧计算(Frame Kill)、打投二择、安全跳计算器与套路速查库" />
+    <script>
+      (function() {
+        try {
+          var saved = localStorage.getItem('sf6_oki_theme');
+          var theme = (saved === 'light' || saved === 'dark') ? saved : 'dark';
+          if (theme === 'dark') {
+            document.documentElement.classList.add('dark');
+            document.documentElement.classList.remove('light');
+          } else {
+            document.documentElement.classList.add('light');
+            document.documentElement.classList.remove('dark');
+          }
+        } catch (e) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="./assets/index-CbqThLzj.js"></script>
+    <link rel="modulepreload" crossorigin href="./assets/rolldown-runtime-CbXtAM7H.js">
+    <link rel="modulepreload" crossorigin href="./assets/vendor-react-Dy-GIXkn.js">
+    <link rel="modulepreload" crossorigin href="./assets/vendor-ui-Qj_2l4TU.js">
+    <link rel="stylesheet" crossorigin href="./assets/index-C2aI4Quy.css">
+  </head>
+  <body class="bg-slate-50 dark:bg-[#08090d] text-slate-900 dark:text-slate-100 antialiased selection:bg-rose-500 selection:text-white transition-colors duration-200">
+    <div id="root"></div>
+  </body>
+</html>
