@@ -1,0 +1,212 @@
+{
+  "timestamp": "2026-09-25T14:44:38.974Z",
+  "mode": "AUDIT_REPORT",
+  "totalCharacters": 25,
+  "totalLocalMoves": 1189,
+  "totalUFDMoves": 1305,
+  "matchedMovesCount": 1189,
+  "conflictsDetected": 0,
+  "conflictsResolved": 0,
+  "detailsByCharacter": [
+    {
+      "characterId": "luke",
+      "characterNameZh": "卢克",
+      "localMovesCount": 46,
+      "ufdMovesCount": 50,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "jamie",
+      "characterNameZh": "杰米",
+      "localMovesCount": 46,
+      "ufdMovesCount": 53,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "ryu",
+      "characterNameZh": "隆",
+      "localMovesCount": 55,
+      "ufdMovesCount": 57,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "ken",
+      "characterNameZh": "肯",
+      "localMovesCount": 57,
+      "ufdMovesCount": 59,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "chunli",
+      "characterNameZh": "春丽",
+      "localMovesCount": 60,
+      "ufdMovesCount": 64,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "cammy",
+      "characterNameZh": "嘉米",
+      "localMovesCount": 49,
+      "ufdMovesCount": 51,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "juri",
+      "characterNameZh": "朱莉",
+      "localMovesCount": 40,
+      "ufdMovesCount": 46,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "deejay",
+      "characterNameZh": "迪杰",
+      "localMovesCount": 51,
+      "ufdMovesCount": 55,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "guile",
+      "characterNameZh": "古烈",
+      "localMovesCount": 44,
+      "ufdMovesCount": 48,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "akuma",
+      "characterNameZh": "豪鬼",
+      "localMovesCount": 54,
+      "ufdMovesCount": 60,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "ed",
+      "characterNameZh": "爱德",
+      "localMovesCount": 42,
+      "ufdMovesCount": 46,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "rashid",
+      "characterNameZh": "拉希德",
+      "localMovesCount": 52,
+      "ufdMovesCount": 56,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "kimberly",
+      "characterNameZh": "金佰莉",
+      "localMovesCount": 50,
+      "ufdMovesCount": 54,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "marisa",
+      "characterNameZh": "玛丽莎",
+      "localMovesCount": 44,
+      "ufdMovesCount": 57,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "manon",
+      "characterNameZh": "玛侬",
+      "localMovesCount": 38,
+      "ufdMovesCount": 48,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "lily",
+      "characterNameZh": "莉莉",
+      "localMovesCount": 42,
+      "ufdMovesCount": 44,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "jp",
+      "characterNameZh": "JP",
+      "localMovesCount": 40,
+      "ufdMovesCount": 46,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "zangief",
+      "characterNameZh": "桑吉尔夫",
+      "localMovesCount": 46,
+      "ufdMovesCount": 48,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "blanka",
+      "characterNameZh": "布兰卡",
+      "localMovesCount": 55,
+      "ufdMovesCount": 56,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "ehonda",
+      "characterNameZh": "本田",
+      "localMovesCount": 50,
+      "ufdMovesCount": 54,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "dhalsim",
+      "characterNameZh": "达尔西姆",
+      "localMovesCount": 49,
+      "ufdMovesCount": 49,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "aki",
+      "characterNameZh": "阿鬼",
+      "localMovesCount": 51,
+      "ufdMovesCount": 53,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "terry",
+      "characterNameZh": "特瑞",
+      "localMovesCount": 45,
+      "ufdMovesCount": 52,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "mai",
+      "characterNameZh": "不知火舞",
+      "localMovesCount": 43,
+      "ufdMovesCount": 45,
+      "conflictsCount": 0,
+      "conflicts": []
+    },
+    {
+      "characterId": "elena",
+      "characterNameZh": "艾莲娜",
+      "localMovesCount": 40,
+      "ufdMovesCount": 54,
+      "conflictsCount": 0,
+      "conflicts": []
+    }
+  ]
+}

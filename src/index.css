@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&family=Teko:wght@500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html.light {
+  color-scheme: light;
+}
+
+html.dark {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-x: hidden;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+html.dark body {
+  background-color: #08090d;
+  color: #e2e8f0;
+}
+
+html.light body {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+/* Custom modern scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+html.dark ::-webkit-scrollbar-track {
+  background: #0f1118;
+}
+
+html.dark ::-webkit-scrollbar-thumb {
+  background: #282d3f;
+  border-radius: 4px;
+}
+
+html.dark ::-webkit-scrollbar-thumb:hover {
+  background: #3b4259;
+}
+
+html.light ::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+html.light ::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+html.light ::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Fighting game gradient glow */
+.sf6-gradient-text {
+  background: linear-gradient(135deg, #ff4e50 0%, #f9d423 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.sf6-blue-gradient {
+  background: linear-gradient(135deg, #00f0ff 0%, #0072ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.sf6-purple-gradient {
+  background: linear-gradient(135deg, #c084fc 0%, #ec4899 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Glass Panels */
+html.dark .glass-panel {
+  background: rgba(15, 18, 28, 0.85);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+html.light .glass-panel {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(226, 232, 240, 1);
+  box-shadow: 0 4px 16px -2px rgba(0, 0, 0, 0.06);
+}
+
+html.dark .glass-panel-glow {
+  background: rgba(18, 22, 36, 0.9);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+}
+
+html.light .glass-panel-glow {
+  background: #ffffff;
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(203, 213, 225, 0.9);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.08);
+}
+
+/* Background grid pattern */
+html.dark .bg-grid-pattern {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+}
+
+html.light .bg-grid-pattern {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(0, 0, 0, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.03) 1px, transparent 1px);
+}
+
+/* SF6 Frame Meter Stripe Pattern for Invulnerability */
+.sf6-invul-stripe {
+  background: repeating-linear-gradient(
+    -45deg,
+    #ffffff,
+    #ffffff 4px,
+    #94a3b8 4px,
+    #94a3b8 8px
+  );
+}
+
+/* Exclusive Custom Throw Invulnerability Pattern (Cyan/White diagonal stripe) */
+.sf6-throw-invul-stripe {
+  background: repeating-linear-gradient(
+    -45deg,
+    #06b6d4,
+    #06b6d4 3px,
+    #ffffff 3px,
+    #ffffff 6px
+  );
+}
+
+.sf6-strike-throw-stripe {
+  background: repeating-linear-gradient(
+    -45deg,
+    #e11d48,
+    #e11d48 3px,
+    #ffffff 3px,
+    #ffffff 6px
+  );
+}
+
+.sf6-projectile-stripe {
+  background: repeating-linear-gradient(
+    -45deg,
+    #d97706,
+    #d97706 3px,
+    #ffffff 3px,
+    #ffffff 6px
+  );
+}
+
+.sf6-hitstun-stripe {
+  background: repeating-linear-gradient(
+    -45deg,
+    #ffd600,
+    #ffd600 4px,
+    #f59e0b 4px,
+    #f59e0b 8px
+  );
+}
+
+
