@@ -9,7 +9,8 @@
     "data:scrape": "node scripts/scrape_all_fat.mjs",
     "data:sync": "node scripts/scrape_all_fat.mjs && node scripts/sync_from_fat.mjs",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "node scripts/deploy_gh_pages.mjs"
   },
   "dependencies": {
     "canvas-confetti": "^1.9.4",
