@@ -175,11 +175,20 @@ export function syncAllCharactersFromFAT() {
 
     // 7. Sync Sweep (2HK) knockdown advantage if available
     const sweepMove = fatMoveMap.get('2HK') || fatMoveMap.get('Crouch HK');
-    if (sweepMove && sweepMove.kd) {
-      const kdVal = parseFrameValue(sweepMove.kd).base;
-      if (kdVal !== undefined && kdVal > 0) {
+    if (sweepMove) {
+      const kdHitStr = String(sweepMove.onHit || '');
+      const kdPcStr = String(sweepMove.onPC || '');
+      const kdHitMatch = kdHitStr.match(/(?:KD|HKD)\s*\+?(-?\d+)/);
+      const kdPcMatch = kdPcStr.match(/(?:KD|HKD)\s*\+?(-?\d+)/);
+      if (kdHitMatch) {
+        const kdVal = parseInt(kdHitMatch[1], 10);
         tsContent = tsContent.replace(/("id":\s*"kd_crouching_heavy_kick"[\s\S]*?"adv":\s*)\d+/, `$1${kdVal}`);
         tsContent = tsContent.replace(/(id:\s*'kd_crouching_heavy_kick'[\s\S]*?adv:\s*)\d+/, `$1${kdVal}`);
+      }
+      if (kdPcMatch) {
+        const pcVal = parseInt(kdPcMatch[1], 10);
+        tsContent = tsContent.replace(/("id":\s*"sweep_pc_[^"]*"[\s\S]*?"adv":\s*)\d+/, `$1${pcVal}`);
+        tsContent = tsContent.replace(/(id:\s*'sweep_pc_[^']*'[\s\S]*?adv:\s*)\d+/, `$1${pcVal}`);
       }
     }
 
@@ -189,7 +198,7 @@ export function syncAllCharactersFromFAT() {
   }
 
   console.log('\n================================================================');
-  console.log(`🎉 Pipeline Synchronization Complete: ${syncedCount} / 27 characters updated.`);
+  console.log(`🎉 Pipeline Synchronization Complete: ${syncedCount} / ${rawFiles.length} characters updated.`);
   console.log('================================================================\n');
 }
 

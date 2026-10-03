@@ -37,6 +37,10 @@ const CHARACTER_MAPPINGS = {
   rashid: { hashtag: '#SF6_RASHID', name: 'Rashid' },
   ryu: { hashtag: '#SF6_RYU', name: 'Ryu' },
   terry: { hashtag: '#SF6_TERRY', name: 'Terry' },
+  alex: { hashtag: '#SF6_ALEX', name: 'Alex' },
+  viper: { hashtag: '#SF6_Cviper', name: 'C.Viper' },
+  sagat: { hashtag: '#SF6_SAGAT', name: 'Sagat' },
+  ingrid: { hashtag: '#SF6_INGRID', name: 'Ingrid' },
   yasmine: { hashtag: '#SF6_YASMINE', name: 'Yasmine' },
   zangief: { hashtag: '#SF6_ZANGIEF', name: 'Zangief' },
 };
@@ -89,9 +93,21 @@ function extractMatchingBraces(str, startIndex) {
 
 async function scrapeAll() {
   console.log('Fetching FAT Online master bundle...');
-  const res = await fetch('https://fullmeter.com/fatonline/static/js/main.d4c6003e.js');
-  const bundle = await res.text();
-  console.log('Fetched bundle size:', bundle.length);
+  let bundle = '';
+  const cachedBundlePath = path.join(__dirname, '..', 'scratch', 'fat_bundle.js');
+  if (fs.existsSync(cachedBundlePath)) {
+    bundle = fs.readFileSync(cachedBundlePath, 'utf8');
+    console.log('Loaded master bundle from scratch/fat_bundle.js (size:', bundle.length, ')');
+  } else {
+    try {
+      const res = await fetch('https://fullmeter.com/fatonline/static/js/main.d4c6003e.js');
+      bundle = await res.text();
+      console.log('Fetched bundle size from network:', bundle.length);
+    } catch (err) {
+      console.warn('Network fetch failed:', err.message);
+      throw err;
+    }
+  }
 
   let successCount = 0;
 
