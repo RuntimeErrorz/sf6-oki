@@ -155,13 +155,25 @@ export const viperData: CharacterProfile = {
       id: 'sweep_pc_viper',
       characterId: 'viper',
       name: 'Sweep Punish Counter (2HK PC)',
-      nameZh: '下重脚 确反破招 (2HK 确反破招 (PC))',
+      nameZh: '下重脚 确反破招 (2HK PC) 击倒',
       input: '2HK (PC)',
       adv: 43,
       type: 'pc',
       distance: 'close',
       description: '滑铲确反破招(PC)击倒+43帧！可原地空跳(消费42f)形成完美+1f落地压制！',
-      tags: ["+43f", '确反破招', '空跳消帧']
+      tags: ['+43f', '确反破招', '空跳消帧']
+    },
+    {
+      id: 'kd_viper_elbow_tc',
+      characterId: 'viper',
+      name: 'Viper Strike Target Combo KD',
+      nameZh: '蝮蛇刺击目标连段 (5HP > 5HK) 击倒',
+      input: '5HP > 5HK',
+      adv: 30,
+      type: 'normal',
+      distance: 'close',
+      description: '重拳接重脚目标连段击倒+30帧！前冲(18f)后+12f黄金有利！',
+      tags: ['+30f', '目标连段']
     },
     {
       id: 'kd_forward_throw',
@@ -188,6 +200,54 @@ export const viperData: CharacterProfile = {
       tags: ['+15f', '后投击倒']
     },
     {
+      id: 'kd_air_throw',
+      characterId: 'viper',
+      name: 'Air Throw KD',
+      nameZh: '空中投 (j.LP+LK) 击倒',
+      input: 'j.LP+LK',
+      adv: 22,
+      type: 'throw',
+      distance: 'close',
+      description: '空中制空投击倒+22帧！前冲(18f)后+4f直接打投！',
+      tags: ['+22f', '空投击倒']
+    },
+    {
+      id: 'kd_drive_reversal',
+      characterId: 'viper',
+      name: 'Drive Reversal KD',
+      nameZh: '驱动反击 (6HP+HK) 击倒',
+      input: '6HP+HK',
+      adv: 23,
+      type: 'normal',
+      distance: 'mid',
+      description: '驱动反击击倒+23帧！防守脱困转守为攻。',
+      tags: ['+23f', '驱动反击']
+    },
+    {
+      id: 'kd_thunder_knuckle_light',
+      characterId: 'viper',
+      name: 'Light Thunder Knuckle KD',
+      nameZh: '轻闪电拳 (214LP) 击倒',
+      input: '214LP',
+      adv: 29,
+      type: 'normal',
+      distance: 'close',
+      description: '轻闪电拳快速突刺击倒+29帧！前冲(18f)后+11f有利！',
+      tags: ['+29f', '轻版必杀']
+    },
+    {
+      id: 'kd_thunder_knuckle_medium',
+      characterId: 'viper',
+      name: 'Medium Thunder Knuckle KD',
+      nameZh: '中闪电拳 (214MP) 击倒',
+      input: '214MP',
+      adv: 31,
+      type: 'normal',
+      distance: 'close',
+      description: '中闪电拳对空拦截击倒+31帧！前冲(18f)后+13f进入打投！',
+      tags: ['+31f', '中版必杀']
+    },
+    {
       id: 'kd_thunder_knuckle_heavy',
       characterId: 'viper',
       name: 'Heavy Thunder Knuckle KD',
@@ -210,6 +270,30 @@ export const viperData: CharacterProfile = {
       distance: 'close',
       description: 'OD闪电拳击倒+37帧！高空浮空大有利，消帧后绝对压制！',
       tags: ['+37f', 'OD闪电拳', '高有利']
+    },
+    {
+      id: 'kd_burning_kick_light',
+      characterId: 'viper',
+      name: 'Light Burning Kick KD',
+      nameZh: '轻燃烧踢 (214LK) 击倒',
+      input: '214LK',
+      adv: 28,
+      type: 'normal',
+      distance: 'close',
+      description: '轻燃烧踢突进击倒+28帧！前冲(18f)后剩+10f有利！',
+      tags: ['+28f', '燃烧踢']
+    },
+    {
+      id: 'kd_burning_kick_medium',
+      characterId: 'viper',
+      name: 'Medium Burning Kick KD',
+      nameZh: '中燃烧踢 (214MK) 击倒',
+      input: '214MK',
+      adv: 30,
+      type: 'normal',
+      distance: 'close',
+      description: '中燃烧踢击倒+30帧！前冲(18f)后+12f黄金有利！',
+      tags: ['+30f', '燃烧踢']
     },
     {
       id: 'kd_burning_kick_heavy',
@@ -236,6 +320,54 @@ export const viperData: CharacterProfile = {
       tags: ['+35f', 'OD燃烧踢']
     },
     {
+      id: 'kd_air_burning_kick',
+      characterId: 'viper',
+      name: 'Air Burning Kick KD',
+      nameZh: '空中燃烧踢 (j.214K) 击倒',
+      input: 'j.214K',
+      adv: 29,
+      type: 'normal',
+      distance: 'close',
+      description: '空中燃烧踢俯冲命中击倒+29帧！前冲(18f)后+11f压制！',
+      tags: ['+29f', '空战必杀']
+    },
+    {
+      id: 'kd_air_burning_kick_od',
+      characterId: 'viper',
+      name: 'OD Air Burning Kick KD',
+      nameZh: '空中OD燃烧踢 (j.214KK) 击倒',
+      input: 'j.214KK',
+      adv: 36,
+      type: 'normal',
+      distance: 'close',
+      description: '空中OD燃烧踢击倒+36帧！强力下压弹地浮空！',
+      tags: ['+36f', 'OD空战']
+    },
+    {
+      id: 'kd_seismic_hammer_light',
+      characterId: 'viper',
+      name: 'Light Seismic Hammer KD',
+      nameZh: '轻地波锤击 (623LP) 击倒',
+      input: '623LP',
+      adv: 34,
+      type: 'normal',
+      distance: 'close',
+      description: '近距离轻地波锤击击倒+34帧！高跳取消快速追打！',
+      tags: ['+34f', '地波锤击']
+    },
+    {
+      id: 'kd_seismic_hammer_medium',
+      characterId: 'viper',
+      name: 'Medium Seismic Hammer KD',
+      nameZh: '中地波锤击 (623MP) 击倒',
+      input: '623MP',
+      adv: 36,
+      type: 'normal',
+      distance: 'mid',
+      description: '中距离地波锤击击倒+36帧！前冲(18f)后+18f！',
+      tags: ['+36f', '地波锤击']
+    },
+    {
       id: 'kd_seismic_hammer_heavy',
       characterId: 'viper',
       name: 'Heavy Seismic Hammer KD',
@@ -254,46 +386,58 @@ export const viperData: CharacterProfile = {
       nameZh: 'OD地波锤击 (623PP) 击倒',
       input: '623PP',
       adv: 42,
-      type: 'normal',
+      type: 'safejump',
       distance: 'mid',
-      description: 'OD地波锤击击倒+42帧！双前冲(36f)+6f近身抢先行动！',
-      tags: ['+42f', 'OD地波']
+      description: 'OD地波锤击击倒+42帧！42f完美安全跳起手！',
+      tags: ['+42f', '42f安全跳', 'OD地波']
     },
     {
       id: 'kd_sa1_emergency_combo',
       characterId: 'viper',
       name: 'Emergency Combination (SA1) KD',
       nameZh: '紧急战术组合连击 (Lv.1 (SA1)) 击倒',
-      input: 'SA1',
-      adv: 18,
+      input: '236236P',
+      adv: 24,
       type: 'super',
       distance: 'mid',
-      description: 'SA1 战术组合连击击倒+18帧！保留进攻节奏。',
-      tags: ['+18f', '超必杀技']
+      description: 'SA1 战术组合连击击倒+24帧！前冲(18f)后+6f打投！',
+      tags: ['+24f', '超必杀技']
     },
     {
       id: 'kd_sa2_burst_collider',
       characterId: 'viper',
       name: 'Burst Collider (SA2) KD',
       nameZh: '等离子爆裂撞击 (Lv.2 (SA2)) 击倒',
-      input: 'SA2',
-      adv: 23,
+      input: '214214P',
+      adv: 28,
       type: 'super',
       distance: 'mid',
-      description: 'SA2 等离子爆裂命中击倒+23帧！',
-      tags: ['+23f', '超必杀技']
+      description: 'SA2 等离子爆裂命中击倒+28帧！前冲(18f)后+10f从容压制！',
+      tags: ['+28f', '超必杀技']
     },
     {
       id: 'kd_sa3_burning_dance',
       characterId: 'viper',
-      name: 'Burning Dance (SA3/CA) KD',
-      nameZh: '炽热狂舞终结 (Lv.3 / CA (SA3)) 击倒',
-      input: 'SA3',
-      adv: 18,
+      name: 'Burning Dance (SA3) KD',
+      nameZh: '炽热狂舞终结 (Lv.3 (SA3)) 击倒',
+      input: '236236K',
+      adv: 36,
       type: 'super',
       distance: 'close',
-      description: 'SA3 / CA 极热轰杀命中击倒+18帧！近身拥有绝对主动权！',
-      tags: ['+18f', '超必杀技']
+      description: 'SA3 极热轰杀命中击倒+36帧！前冲(18f)后+18f拥有绝对主动权！',
+      tags: ['+36f', '超必杀技']
+    },
+    {
+      id: 'kd_ca_burning_dance',
+      characterId: 'viper',
+      name: 'Burning Dance (CA) KD',
+      nameZh: '炽热狂舞终结 (致命伤害 (CA)) 击倒',
+      input: '236236K (CA)',
+      adv: 36,
+      type: 'super',
+      distance: 'close',
+      description: 'CA 致命极限爆发命中击倒+36帧！终结伤害与压制双收！',
+      tags: ['+36f', '致命大招']
     }
   ],
   moves: [

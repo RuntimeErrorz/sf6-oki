@@ -159,13 +159,49 @@ export const sagatData: CharacterProfile = {
       id: 'sweep_pc_sagat',
       characterId: 'sagat',
       name: 'Sweep Punish Counter (2HK PC)',
-      nameZh: '下重脚 确反破招 (2HK 确反破招 (PC))',
+      nameZh: '下重脚 确反破招 (2HK PC) 击倒',
       input: '2HK (PC)',
       adv: 43,
       type: 'pc',
       distance: 'close',
       description: '下重脚确反破招(PC)击倒+43帧！可原地空跳(消费43f)打出完美+0f落地压制！',
-      tags: ["+43f", '确反破招', '空跳消帧']
+      tags: ['+43f', '确反破招', '空跳消帧']
+    },
+    {
+      id: 'kd_tiger_tail_4hk',
+      characterId: 'sagat',
+      name: 'Tiger Tail KD',
+      nameZh: '猛虎摆尾 (4HK) 击倒',
+      input: '4HK',
+      adv: 33,
+      type: 'normal',
+      distance: 'mid',
+      description: '后重脚猛虎摆尾特殊技击倒+33帧！前冲(20f)后剩+13f进入压制！',
+      tags: ['+33f', '特殊技击倒']
+    },
+    {
+      id: 'kd_step_high_kick_6hk',
+      characterId: 'sagat',
+      name: 'Step High Kick KD',
+      nameZh: '垫步高踢 (6HK) 击倒',
+      input: '6HK',
+      adv: 31,
+      type: 'normal',
+      distance: 'mid',
+      description: '垫步高踢中距离击倒+31帧！前冲(20f)后+11f从容压制！',
+      tags: ['+31f', '特殊技击倒']
+    },
+    {
+      id: 'kd_tiger_raid_tc',
+      characterId: 'sagat',
+      name: 'Tiger Raid Target Combo KD',
+      nameZh: '猛虎突袭目标连段 (5MP > 5HK) 击倒',
+      input: '5MP > 5HK',
+      adv: 30,
+      type: 'normal',
+      distance: 'close',
+      description: '中拳接重脚目标连段击倒+30帧！前冲(20f)后剩+10f有利！',
+      tags: ['+30f', '目标连段']
     },
     {
       id: 'kd_forward_throw',
@@ -192,6 +228,42 @@ export const sagatData: CharacterProfile = {
       tags: ['+15f', '后投击倒']
     },
     {
+      id: 'kd_drive_reversal',
+      characterId: 'sagat',
+      name: 'Drive Reversal KD',
+      nameZh: '驱动反击 (6HP+HK) 击倒',
+      input: '6HP+HK',
+      adv: 23,
+      type: 'normal',
+      distance: 'mid',
+      description: '驱动反击击倒+23帧！防守脱困转守为攻。',
+      tags: ['+23f', '驱动反击']
+    },
+    {
+      id: 'kd_tiger_uppercut_light',
+      characterId: 'sagat',
+      name: 'Light Tiger Uppercut KD',
+      nameZh: '轻猛虎升龙拳 (623LP) 击倒',
+      input: '623LP',
+      adv: 26,
+      type: 'normal',
+      distance: 'close',
+      description: '轻猛虎升龙对空击倒+26帧！前冲(20f)后剩+6f直接打投！',
+      tags: ['+26f', '升龙击倒']
+    },
+    {
+      id: 'kd_tiger_uppercut_medium',
+      characterId: 'sagat',
+      name: 'Medium Tiger Uppercut KD',
+      nameZh: '中猛虎升龙拳 (623MP) 击倒',
+      input: '623MP',
+      adv: 27,
+      type: 'normal',
+      distance: 'mid',
+      description: '中猛虎升龙击倒+27帧！对空稳定收尾！',
+      tags: ['+27f', '升龙击倒']
+    },
+    {
       id: 'kd_tiger_uppercut_heavy',
       characterId: 'sagat',
       name: 'Heavy Tiger Uppercut KD',
@@ -214,6 +286,30 @@ export const sagatData: CharacterProfile = {
       distance: 'close',
       description: 'OD猛虎升龙击倒+34帧！完全无敌反击，前冲(20f)后剩+14f近身起攻！',
       tags: ['+34f', 'OD升龙', '无敌反击']
+    },
+    {
+      id: 'kd_tiger_knee_light',
+      characterId: 'sagat',
+      name: 'Light Tiger Knee Crush KD',
+      nameZh: '轻猛虎膝碎 (236LK) 击倒',
+      input: '236LK',
+      adv: 31,
+      type: 'normal',
+      distance: 'close',
+      description: '轻猛虎膝碎快速突进击倒+31帧！前冲(20f)后+11f有利！',
+      tags: ['+31f', '膝碎压制']
+    },
+    {
+      id: 'kd_tiger_knee_medium',
+      characterId: 'sagat',
+      name: 'Medium Tiger Knee Crush KD',
+      nameZh: '中猛虎膝碎 (236MK) 击倒',
+      input: '236MK',
+      adv: 32,
+      type: 'normal',
+      distance: 'close',
+      description: '中猛虎膝碎击倒+32帧！前冲(20f)后+12f黄金有利！',
+      tags: ['+32f', '膝碎压制']
     },
     {
       id: 'kd_tiger_knee_heavy',
@@ -252,40 +348,64 @@ export const sagatData: CharacterProfile = {
       tags: ['+32f', '波击倒']
     },
     {
+      id: 'kd_grand_tiger_shot_od',
+      characterId: 'sagat',
+      name: 'OD Low Tiger Shot KD',
+      nameZh: 'OD猛虎低波 (214PP) 击倒',
+      input: '214PP',
+      adv: 34,
+      type: 'normal',
+      distance: 'far',
+      description: 'OD猛虎下段波击倒+34帧！下盘贯穿击倒，抢占节奏！',
+      tags: ['+34f', '下波击倒']
+    },
+    {
       id: 'kd_sa1_tiger_cannon',
       characterId: 'sagat',
       name: 'Tiger Cannon (SA1) KD',
       nameZh: '猛虎加农炮 (Lv.1 (SA1)) 击倒',
-      input: 'SA1',
-      adv: 18,
+      input: '236236P',
+      adv: 24,
       type: 'super',
       distance: 'mid',
-      description: 'SA1 猛虎加农炮命中击倒+18帧！保留主动权。',
-      tags: ['+18f', '超必杀技']
+      description: 'SA1 猛虎加农炮命中击倒+24帧！前冲(20f)后+4f直接打投！',
+      tags: ['+24f', '超必杀技']
     },
     {
       id: 'kd_sa2_tiger_rampage',
       characterId: 'sagat',
       name: 'Tiger Rampage (SA2) KD',
-      nameZh: '猛虎狂暴连击 (Lv.2 (SA2)) 击倒',
-      input: 'SA2',
-      adv: 25,
+      nameZh: '猛虎暴怒 (Lv.2 (SA2)) 击倒',
+      input: '214214K',
+      adv: 29,
       type: 'super',
       distance: 'mid',
-      description: 'SA2 连续踢击狂暴命中击倒+25帧！前冲后占据优势。',
-      tags: ['+25f', '超必杀技']
+      description: 'SA2 连续踢击狂暴命中击倒+29帧！前冲(20f)后剩+9f从容压制！',
+      tags: ['+29f', '超必杀技']
     },
     {
       id: 'kd_sa3_tiger_destruction',
       characterId: 'sagat',
-      name: 'Tiger Destruction (SA3/CA) KD',
-      nameZh: '猛虎灭碎 (Lv.3 / CA (SA3)) 击倒',
-      input: 'SA3',
-      adv: 18,
+      name: 'Tiger Destruction (SA3) KD',
+      nameZh: '猛虎灭碎 (Lv.3 (SA3)) 击倒',
+      input: '236236K',
+      adv: 36,
       type: 'super',
       distance: 'close',
-      description: 'SA3 / CA 终结升龙命中击倒+18帧！近身直接进入压制二择！',
-      tags: ['+18f', '超必杀技']
+      description: 'SA3 猛虎终结升龙命中击倒+36帧！前冲(20f)后+16f极大压制！',
+      tags: ['+36f', '超必杀技']
+    },
+    {
+      id: 'kd_ca_tiger_destruction',
+      characterId: 'sagat',
+      name: 'Tiger Destruction (CA) KD',
+      nameZh: '猛虎灭碎 (致命伤害 (CA)) 击倒',
+      input: '236236K (CA)',
+      adv: 36,
+      type: 'super',
+      distance: 'close',
+      description: 'CA 致命强化升龙命中击倒+36帧！近身直接进入压制二择！',
+      tags: ['+36f', '致命大招']
     }
   ],
   moves: [

@@ -159,13 +159,37 @@ export const ingridData: CharacterProfile = {
       id: 'sweep_pc_ingrid',
       characterId: 'ingrid',
       name: 'Sweep Punish Counter (2HK PC)',
-      nameZh: '下重脚 确反破招 (2HK 确反破招 (PC))',
+      nameZh: '下重脚 确反破招 (2HK PC) 击倒',
       input: '2HK (PC)',
       adv: 43,
       type: 'pc',
       distance: 'close',
       description: '扫腿确反破招(PC)击倒+43帧！原地空跳(消费43f)完美0f落地打投压制！',
-      tags: ["+43f", '确反破招', '空跳消帧']
+      tags: ['+43f', '确反破招', '空跳消帧']
+    },
+    {
+      id: 'kd_sun_shine_3hk',
+      characterId: 'ingrid',
+      name: 'Sun Shine KD',
+      nameZh: '日华前踢 (3HK) 击倒',
+      input: '3HK',
+      adv: 31,
+      type: 'normal',
+      distance: 'mid',
+      description: '特殊技前踢击倒+31帧！前冲(19f)后+12f黄金有利！',
+      tags: ['+31f', '特殊技击倒']
+    },
+    {
+      id: 'kd_ingrid_tc',
+      characterId: 'ingrid',
+      name: 'Saint Triple Target Combo KD',
+      nameZh: '圣洁三连击目标连段 (5LK > 5MK > 5HK) 击倒',
+      input: '5LK > 5MK > 5HK',
+      adv: 32,
+      type: 'normal',
+      distance: 'close',
+      description: '三连踢目标连段击倒+32帧！前冲(19f)后+13f进入打投！',
+      tags: ['+32f', '目标连段']
     },
     {
       id: 'kd_forward_throw',
@@ -192,6 +216,18 @@ export const ingridData: CharacterProfile = {
       tags: ['+14f', '后投击倒']
     },
     {
+      id: 'kd_drive_reversal',
+      characterId: 'ingrid',
+      name: 'Drive Reversal KD',
+      nameZh: '驱动反击 (6HP+HK) 击倒',
+      input: '6HP+HK',
+      adv: 23,
+      type: 'normal',
+      distance: 'mid',
+      description: '驱动反击击倒+23帧！防守脱困转守为攻。',
+      tags: ['+23f', '驱动反击']
+    },
+    {
       id: 'kd_sun_shot_od',
       characterId: 'ingrid',
       name: 'OD Sun Shot KD',
@@ -202,6 +238,30 @@ export const ingridData: CharacterProfile = {
       distance: 'far',
       description: 'OD日轮光弹击倒+32帧！远距离穿波击倒，绿冲突进起攻！',
       tags: ['+32f', '光弹击倒']
+    },
+    {
+      id: 'kd_sun_rise_light',
+      characterId: 'ingrid',
+      name: 'Light Sun Rise KD',
+      nameZh: '轻日光跃升 (623LK) 击倒',
+      input: '623LK',
+      adv: 28,
+      type: 'normal',
+      distance: 'close',
+      description: '轻日光跃升升龙击倒+28帧！前冲(19f)+9f有利！',
+      tags: ['+28f', '升龙击倒']
+    },
+    {
+      id: 'kd_sun_rise_medium',
+      characterId: 'ingrid',
+      name: 'Medium Sun Rise KD',
+      nameZh: '中日光跃升 (623MK) 击倒',
+      input: '623MK',
+      adv: 29,
+      type: 'normal',
+      distance: 'close',
+      description: '中日光跃升升龙击倒+29帧！前冲(19f)+10f打投！',
+      tags: ['+29f', '升龙击倒']
     },
     {
       id: 'kd_sun_rise_heavy',
@@ -228,6 +288,30 @@ export const ingridData: CharacterProfile = {
       tags: ['+36f', 'OD升龙', '无敌反击']
     },
     {
+      id: 'kd_sun_dive_light',
+      characterId: 'ingrid',
+      name: 'Light Sun Dive KD',
+      nameZh: '轻日光俯冲 (214LK) 击倒',
+      input: '214LK',
+      adv: 27,
+      type: 'normal',
+      distance: 'mid',
+      description: '轻日光俯冲击倒+27帧！前冲(19f)后+8f有利！',
+      tags: ['+27f', '俯冲突进']
+    },
+    {
+      id: 'kd_sun_dive_medium',
+      characterId: 'ingrid',
+      name: 'Medium Sun Dive KD',
+      nameZh: '中日光俯冲 (214MK) 击倒',
+      input: '214MK',
+      adv: 28,
+      type: 'normal',
+      distance: 'mid',
+      description: '中日光俯冲击倒+28帧！前冲(19f)后+9f打投！',
+      tags: ['+28f', '俯冲突进']
+    },
+    {
       id: 'kd_sun_dive_heavy',
       characterId: 'ingrid',
       name: 'Heavy Sun Dive KD',
@@ -238,6 +322,54 @@ export const ingridData: CharacterProfile = {
       distance: 'mid',
       description: '重日光俯冲击倒+29帧！空中变轨偷袭后击倒！',
       tags: ['+29f', '俯冲偷袭']
+    },
+    {
+      id: 'kd_sun_dive_od',
+      characterId: 'ingrid',
+      name: 'OD Sun Dive KD',
+      nameZh: 'OD日光俯冲 (214KK) 击倒',
+      input: '214KK',
+      adv: 35,
+      type: 'normal',
+      distance: 'close',
+      description: 'OD日光俯冲击倒+35帧！浮空弹地大有利！',
+      tags: ['+35f', 'OD俯冲']
+    },
+    {
+      id: 'kd_sun_upper_light',
+      characterId: 'ingrid',
+      name: 'Light Sun Upper KD',
+      nameZh: '轻日轮升击 (214LP) 击倒',
+      input: '214LP',
+      adv: 30,
+      type: 'normal',
+      distance: 'close',
+      description: '轻日轮升击对空击倒+30帧！前冲(19f)+11f！',
+      tags: ['+30f', '升击对空']
+    },
+    {
+      id: 'kd_sun_upper_medium',
+      characterId: 'ingrid',
+      name: 'Medium Sun Upper KD',
+      nameZh: '中日轮升击 (214MP) 击倒',
+      input: '214MP',
+      adv: 32,
+      type: 'normal',
+      distance: 'close',
+      description: '中日轮升击击倒+32帧！前冲(19f)+13f黄金有利！',
+      tags: ['+32f', '升击对空']
+    },
+    {
+      id: 'kd_sun_upper_heavy',
+      characterId: 'ingrid',
+      name: 'Heavy Sun Upper KD',
+      nameZh: '重日轮升击 (214HP) 击倒',
+      input: '214HP',
+      adv: 34,
+      type: 'normal',
+      distance: 'close',
+      description: '重日轮升击击倒+34帧！高空挑飞击倒！',
+      tags: ['+34f', '升击对空']
     },
     {
       id: 'kd_sun_upper_od',
@@ -252,40 +384,64 @@ export const ingridData: CharacterProfile = {
       tags: ['+38f', 'OD浮空', '高有利']
     },
     {
+      id: 'kd_sun_delta_od',
+      characterId: 'ingrid',
+      name: 'OD Sun Delta KD',
+      nameZh: 'OD太阳三角抓投 (63214KK) 击倒',
+      input: '63214KK',
+      adv: 35,
+      type: 'normal',
+      distance: 'close',
+      description: 'OD瞬移派生神圣抓投击倒+35帧！出其不意破防！',
+      tags: ['+35f', 'OD指令抓']
+    },
+    {
       id: 'kd_sa1_sun_burst',
       characterId: 'ingrid',
       name: 'Sun Burst (SA1) KD',
       nameZh: '日轮爆碎 (Lv.1 (SA1)) 击倒',
-      input: 'SA1',
-      adv: 18,
+      input: '236236P',
+      adv: 24,
       type: 'super',
       distance: 'mid',
-      description: 'SA1 日轮爆碎击倒+18帧！',
-      tags: ['+18f', '超必杀技']
+      description: 'SA1 日轮爆碎击倒+24帧！前冲(19f)+5f打投！',
+      tags: ['+24f', '超必杀技']
     },
     {
       id: 'kd_sa2_sun_arch',
       characterId: 'ingrid',
       name: 'Sun Arch (SA2) KD',
       nameZh: '星穹日拱 (Lv.2 (SA2)) 击倒',
-      input: 'SA2',
-      adv: 24,
+      input: '214214P',
+      adv: 28,
       type: 'super',
       distance: 'mid',
-      description: 'SA2 星穹日拱命中击倒+24帧！',
-      tags: ['+24f', '超必杀技']
+      description: 'SA2 星穹日拱命中击倒+28帧！前冲(19f)+9f从容压制！',
+      tags: ['+28f', '超必杀技']
     },
     {
       id: 'kd_sa3_genesis_flare',
       characterId: 'ingrid',
-      name: 'Genesis Flare (SA3/CA) KD',
-      nameZh: '创世星炎 (Lv.3 / CA (SA3)) 击倒',
-      input: 'SA3',
-      adv: 18,
+      name: 'Genesis Flare (SA3) KD',
+      nameZh: '创世星炎 (Lv.3 (SA3)) 击倒',
+      input: '236236K',
+      adv: 36,
       type: 'super',
       distance: 'close',
-      description: 'SA3 / CA 创世星炎命中击倒+18帧！神圣净化收尾，近身压起身！',
-      tags: ['+18f', '超必杀技']
+      description: 'SA3 创世星炎命中击倒+36帧！神圣净化收尾，前冲(19f)+17f近身压起身！',
+      tags: ['+36f', '超必杀技']
+    },
+    {
+      id: 'kd_ca_genesis_flare',
+      characterId: 'ingrid',
+      name: 'Genesis Flare (CA) KD',
+      nameZh: '创世星炎 (致命伤害 (CA)) 击倒',
+      input: '236236K (CA)',
+      adv: 36,
+      type: 'super',
+      distance: 'close',
+      description: 'CA 致命极限创世星炎命中击倒+36帧！绝对支配权！',
+      tags: ['+36f', '致命大招']
     }
   ],
   moves: [
