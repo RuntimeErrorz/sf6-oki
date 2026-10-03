@@ -83,11 +83,11 @@ export const deejayData: CharacterProfile = {
       name: 'Crouching Heavy Kick (2HK) KD',
       nameZh: '下重脚 (2HK) 击倒',
       input: '2HK',
-      adv: 34,
+      adv: 33,
       type: 'normal',
       distance: 'mid',
-      description: '下重脚 (2HK) 击倒+34帧！高有利帧击倒，可从容前冲或空挥消帧后进入打投二择！',
-      tags: ['+34f', '高有利帧', '打投二择']
+      description: '下重脚 (2HK) 击倒+33帧！高有利帧击倒，可从容前冲或空挥消帧后进入打投二择！',
+      tags: ['+33f', '高有利帧', '打投二择']
     },
     {
       id: 'sweep_pc_deejay',
@@ -95,11 +95,11 @@ export const deejayData: CharacterProfile = {
       name: 'Sweep Punish Counter (2HK PC)',
       nameZh: '下重脚 确反破招 (2HK PC) 击倒',
       input: '2HK (PC)',
-      adv: 41,
+      adv: 52,
       type: 'pc',
       distance: 'close',
-      description: '下重脚确反破招(PC)击倒+41帧！巨大破招有利，可原地空跳(消费43f)剩+-3f黄金打投二择，或空挥消帧后前压起攻/安全跳！',
-      tags: ['+41f', '确反破招', '空跳消帧', '打投二择']
+      description: '下重脚确反破招(PC)击倒+52帧！巨大破招有利，可原地空跳(消费43f)剩+9f黄金打投二择，或空挥消帧后前压起攻/安全跳！',
+      tags: ["+52f", '确反破招', '空跳消帧', '打投二择']
     },
     {
       id: 'kd_medium_punch_heavy_punch_heavy_kick',
@@ -272,14 +272,14 @@ export const deejayData: CharacterProfile = {
     {
       id: 'kd_jus_cool_light_kick',
       characterId: 'deejay',
-      name: 'Jus Cool > Funky Slicer (214K > LK) KD',
-      nameZh: '摇摆闪步 > 放克下段踢 (214K > LK) 击倒',
-      input: '214K > LK',
+      name: 'Jus Cool > Funky Slicer (PC) (214K > LK) KD',
+      nameZh: '摇摆闪步 > 放克下段踢 (PC) (214K > LK) 击倒',
+      input: '214K > LK (PC)',
       adv: 37,
-      type: 'normal',
+      type: 'pc',
       distance: 'mid',
-      description: '摇摆闪步 > 放克下段踢 (214K > LK) 击倒+37帧！高有利帧击倒，下段突袭起手！',
-      tags: ['+37f', '高有利帧', '打投二择']
+      description: '摇摆闪步 > 放克下段踢确反破招击倒+37帧！下段确反突袭起手！',
+      tags: ['+37f', '确反破招', '打投二择']
     },
     {
       id: 'kd_jus_cool_medium_kick',
@@ -335,11 +335,11 @@ export const deejayData: CharacterProfile = {
       name: 'The Greatest Sobat (SA1) KD',
       nameZh: '最强索巴特 (SA1 / 236236K) 击倒',
       input: '236236K',
-      adv: 32,
+      adv: 44,
       type: 'super',
       distance: 'mid',
-      description: '最强索巴特 (SA1 / 236236K) 击倒+32帧！高有利帧击倒，可从容前冲或空挥消帧后进入打投二择！',
-      tags: ['+32f', '高有利帧', '打投二择']
+      description: '最强索巴特 (SA1 / 236236K) 击倒+44帧！高有利帧击倒，可从容前冲或空挥消帧后进入打投二择！',
+      tags: ['+44f', '高有利帧', '打投二择']
     },
     {
       id: 'kd_lowkey_sunrise_festival_level_2',
@@ -1229,7 +1229,7 @@ export const deejayData: CharacterProfile = {
       onHit: 0,
       damage: 2000,
       isKnockdown: true,
-      kdAdvantage: 32,
+      kdAdvantage: 44,
       saCost: 1,
       notes: 'Breaks armor.'
     },

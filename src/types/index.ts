@@ -25,6 +25,10 @@ export type CharacterId =
   | 'mai'
   | 'elena'
   | 'bison'
+  | 'sagat'
+  | 'viper'
+  | 'alex'
+  | 'ingrid'
   | 'yasmine';
 
 export type MoveCategory = 

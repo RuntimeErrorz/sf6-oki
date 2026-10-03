@@ -3,7 +3,7 @@ import type { CharacterProfile } from '../../types';
 export const bisonData: CharacterProfile = {
   id: 'bison',
   name: 'M. Bison',
-  nameZh: '维加 / 独眼将军',
+  nameZh: '维加',
   title: 'The Emperor of Evil',
   archetype: 'Rushdown / Psycho Mine Pressure',
   avatar: '👑',
@@ -124,11 +124,11 @@ export const bisonData: CharacterProfile = {
       name: 'Crouching Heavy Kick KD',
       nameZh: '下重脚 (2HK) 击倒',
       input: '2HK',
-      adv: 36,
+      adv: 29,
       type: 'normal',
       distance: 'close',
-      description: '下重脚 (2HK) 击倒+36帧！ 高有利帧击倒，可从容前冲或空挥消帧后进入打投二择！',
-      tags: ['+36f', '下重脚击倒', '打投二择']
+      description: '下重脚 (2HK) 击倒+29帧！ 高有利帧击倒，可从容前冲或空挥消帧后进入打投二择！',
+      tags: ['+29f', '下重脚击倒', '打投二择']
     },
     {
       id: 'sweep_pc_bison',
@@ -136,11 +136,11 @@ export const bisonData: CharacterProfile = {
       name: 'Sweep Punish Counter (2HK PC)',
       nameZh: '下重脚 确反破招 (2HK 确反破招 (PC))',
       input: '2HK (PC)',
-      adv: 43,
+      adv: 45,
       type: 'pc',
       distance: 'close',
-      description: '下重脚确反破招(PC)击倒+43帧！ 巨大破招有利，可原地空跳(消费43f)打出完美+0/+4f肉压！',
-      tags: ['+43f', '确反破招', '空跳消帧']
+      description: '下重脚确反破招(PC)击倒+45帧！ 巨大破招有利，可原地空跳(消费43f)打出完美+0/+4f肉压！',
+      tags: ["+45f", '确反破招', '空跳消帧']
     },
     {
       id: 'kd_psycho_mine_detonation',
@@ -472,7 +472,7 @@ export const bisonData: CharacterProfile = {
       onHit: 0,
       damage: 900,
       isKnockdown: true,
-      kdAdvantage: 36
+      kdAdvantage: 29
     },
     {
       id: 'psycho_axe_6hp',

@@ -85,7 +85,7 @@ export const cammyData: CharacterProfile = {
     "name": "Crouching Heavy Kick KD",
     "nameZh": "下重脚 (2HK) 击倒",
     "input": "2HK",
-    "adv": 36,
+    "adv": 38,
     "type": "normal",
     "distance": "mid",
     "description": "下重脚 (2HK) 击倒+38帧！ 高有利帧击倒，可从容前冲或空挥消帧后进入打投二择！",
@@ -104,9 +104,9 @@ export const cammyData: CharacterProfile = {
     "adv": 43,
     "type": "pc",
     "distance": "close",
-    "description": "下重脚确反破招(PC)击倒+45帧！巨大破招有利，可原地空跳(消费42f)剩+3f黄金打投二择，或空挥消帧后前压起攻/安全跳！",
+    "description": "下重脚确反破招(PC)击倒+43帧！巨大破招有利，可原地空跳(消费42f)剩+1f黄金打投二择，或空挥消帧后前压起攻/安全跳！",
     "tags": [
-        "+45f",
+        "+43f",
         "确反破招",
         "空跳消帧",
         "打投二择"

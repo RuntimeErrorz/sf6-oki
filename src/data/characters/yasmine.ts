@@ -112,11 +112,11 @@ export const yasmineData: CharacterProfile = {
       name: 'Crouching Heavy Kick KD',
       nameZh: '下重脚 (2HK) 击倒',
       input: '2HK',
-      adv: 36,
+      adv: 40,
       type: 'normal',
       distance: 'close',
-      description: '下重脚 (2HK) 击倒+36帧！ 高有利帧击倒，可从容前冲或空挥消帧后进入打投二择！',
-      tags: ['+36f', '下重脚击倒', '打投二择']
+      description: '下重脚 (2HK) 击倒+40帧！ 高有利帧击倒，可从容前冲或空挥消帧后进入打投二择！',
+      tags: ['+40f', '下重脚击倒', '打投二择']
     },
     {
       id: 'sweep_pc_yasmine',
@@ -124,11 +124,11 @@ export const yasmineData: CharacterProfile = {
       name: 'Sweep Punish Counter (2HK PC)',
       nameZh: '下重脚 确反破招 (2HK 确反破招 (PC))',
       input: '2HK (PC)',
-      adv: 43,
+      adv: 46,
       type: 'pc',
       distance: 'close',
-      description: '下重脚确反破招(PC)击倒+43帧！ 巨大破招有利，可原地空跳(消费43f)打出+0/+4f完美肉压！',
-      tags: ['+43f', '确反破招', '空跳消帧']
+      description: '下重脚确反破招(PC)击倒+46帧！ 巨大破招有利，可原地空跳(消费43f)打出+0/+4f完美肉压！',
+      tags: ["+46f", '确反破招', '空跳消帧']
     },
     {
       id: 'kd_gale_karambit_sweep',
@@ -148,11 +148,11 @@ export const yasmineData: CharacterProfile = {
       name: 'Eskrima Cyclone Rush (214HP) KD',
       nameZh: '短棍旋风连打 (重拳) (214HP) 击倒',
       input: '214HP',
-      adv: 34,
+      adv: 37,
       type: 'normal',
       distance: 'close',
-      description: '短棍旋风击倒+34帧！ 前冲(18f)后剩+16f极大有利，可直接打投二择或复合肉压！',
-      tags: ['+34f', '高有利帧']
+      description: '短棍旋风击倒+37帧！ 前冲(18f)后剩+19f极大有利，可直接打投二择或复合肉压！',
+      tags: ['+37f', '高有利帧']
     },
     {
       id: 'kd_wind_vault_strike',
@@ -160,11 +160,11 @@ export const yasmineData: CharacterProfile = {
       name: 'Wind Vault Strike (623HK) KD',
       nameZh: '风之跃击 (重脚) (623HK) 击倒',
       input: '623HK',
-      adv: 29,
+      adv: 21,
       type: 'normal',
       distance: 'mid',
-      description: '风之跃击击倒+29帧！',
-      tags: ['+29f']
+      description: '风之跃击击倒+21帧！',
+      tags: ['+21f']
     },
     {
       id: 'kd_forward_throw',
@@ -424,7 +424,7 @@ export const yasmineData: CharacterProfile = {
       onHit: 0,
       damage: 900,
       isKnockdown: true,
-      kdAdvantage: 36
+      kdAdvantage: 40
     },
     {
       id: 'overhead_karambit_6mp',

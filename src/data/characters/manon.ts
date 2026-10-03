@@ -71,7 +71,7 @@ export const manonData: CharacterProfile = {
     "name": "Crouching Heavy Kick KD",
     "nameZh": "下重脚 (2HK) 击倒",
     "input": "2HK",
-    "adv": 37,
+    "adv": 29,
     "type": "normal",
     "distance": "mid",
     "description": "下重脚 (2HK) 击倒+29帧！",
@@ -88,9 +88,9 @@ export const manonData: CharacterProfile = {
     "adv": 44,
     "type": "pc",
     "distance": "close",
-    "description": "下重脚确反破招(PC)击倒+36帧！巨大破招有利，可原地空跳(消费43f)剩+-7f黄金打投二择，或空挥消帧后前压起攻/安全跳！",
+    "description": "下重脚确反破招(PC)击倒+44帧！巨大破招有利，可原地空跳(消费43f)剩+1f黄金打投二择，或空挥消帧后前压起攻/安全跳！",
     "tags": [
-        "+36f",
+        "+44f",
         "确反破招",
         "空跳消帧",
         "打投二择"

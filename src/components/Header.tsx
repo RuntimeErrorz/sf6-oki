@@ -97,7 +97,16 @@ export const Header: React.FC<HeaderProps> = ({
               </optgroup>
               {ALL_CHARACTERS.length > 26 && (
                 <optgroup label="Year 3 DLC">
-                  {ALL_CHARACTERS.slice(26).map((char) => (
+                  {ALL_CHARACTERS.slice(26, 30).map((char) => (
+                    <option key={char.id} value={char.id} className="bg-white dark:bg-slate-900 text-slate-800 dark:text-white py-1">
+                      {char.nameZh} ({char.name})
+                    </option>
+                  ))}
+                </optgroup>
+              )}
+              {ALL_CHARACTERS.length > 30 && (
+                <optgroup label="Year 4 DLC">
+                  {ALL_CHARACTERS.slice(30).map((char) => (
                     <option key={char.id} value={char.id} className="bg-white dark:bg-slate-900 text-slate-800 dark:text-white py-1">
                       {char.nameZh} ({char.name})
                     </option>

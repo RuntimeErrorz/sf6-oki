@@ -195,43 +195,43 @@ export const OkiCalculator: React.FC<OkiCalculatorProps> = ({
               <span>击倒招式预设</span>
             </label>
             <select
-              value={selectedKdId || 'custom'}
+              value={selectedKdId || ''}
               onChange={(e) => {
                 const newId = e.target.value;
+                if (!newId) return;
                 setSelectedKdId(newId);
-                if (newId !== 'custom') {
-                  const found = character.knockdowns.find(k => k.id === newId);
-                  if (found) setCurrentKdAdv(found.adv);
-                }
+                const found = character.knockdowns.find(k => k.id === newId);
+                if (found) setCurrentKdAdv(found.adv);
                 setCustomFrameKills([]);
                 setHasLoadedSolution(false);
               }}
               className="w-full h-10 bg-slate-100 dark:bg-slate-950 border border-slate-300 dark:border-slate-700 rounded-xl px-3 text-xs sm:text-sm font-semibold text-slate-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-rose-500 shadow-inner cursor-pointer"
             >
-              <optgroup label="预设击倒招式">
-                {character.knockdowns.map((kd) => {
-                  const cleanName = kd.nameZh.replace(/\s*击倒$/i, '').trim();
-                  const hasInputInName = cleanName.endsWith(')') || cleanName.includes(kd.input);
-                  const label = hasInputInName 
-                    ? `+${kd.adv}f - ${cleanName}`
-                    : `+${kd.adv}f - ${cleanName} (${kd.input})`;
-                  return (
-                    <option key={kd.id} value={kd.id} className="bg-white dark:bg-slate-900 text-slate-900 dark:text-white">
-                      {label}
-                    </option>
-                  );
-                })}
-              </optgroup>
-              <option value="custom" className="bg-white dark:bg-slate-900 text-slate-900 dark:text-white font-bold">
-                自定义 (+{currentKdAdv}f 击倒有利)
-              </option>
+              {!selectedKdId && (
+                <option value="" disabled className="text-slate-400 italic">
+                  -- 自定义帧数 (+{currentKdAdv}f) --
+                </option>
+              )}
+              {character.knockdowns.map((kd) => {
+                const cleanName = kd.nameZh.replace(/\s*击倒$/i, '').trim();
+                const hasInputInName = cleanName.endsWith(')') || cleanName.includes(kd.input);
+                const label = hasInputInName 
+                  ? `+${kd.adv}f - ${cleanName}`
+                  : `+${kd.adv}f - ${cleanName} (${kd.input})`;
+                return (
+                  <option key={kd.id} value={kd.id} className="bg-white dark:bg-slate-900 text-slate-900 dark:text-white">
+                    {label}
+                  </option>
+                );
+              })}
             </select>
           </div>
 
           {/* Interactive Frame Slider (7 cols) */}
           <div className="md:col-span-7 space-y-1.5">
             <label className="text-xs font-semibold text-slate-700 dark:text-slate-300 flex items-center justify-between">
-              <span>有利帧数微调</span>
+              <span>有利帧数自定义</span>
+              <span className="font-mono text-rose-500 font-bold text-xs sm:text-sm">+{currentKdAdv}f</span>
             </label>
             <div className="w-full h-10 px-3 rounded-xl bg-slate-100 dark:bg-slate-950 border border-slate-300 dark:border-slate-700 shadow-inner flex items-center">
               <input
@@ -242,7 +242,7 @@ export const OkiCalculator: React.FC<OkiCalculatorProps> = ({
                 onChange={(e) => {
                   const val = Number(e.target.value);
                   setCurrentKdAdv(val);
-                  setSelectedKdId('custom');
+                  setSelectedKdId('');
                   setCustomFrameKills([]);
                   setHasLoadedSolution(false);
                 }}
