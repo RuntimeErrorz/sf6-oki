@@ -148,12 +148,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_crouch_hk",
     "characterId": "ingrid",
     "name": "Crouch HK KD",
-    "nameZh": "Crouch HK (2HK) 击倒",
+    "nameZh": "下重脚 (2HK) 击倒",
     "input": "2HK",
     "adv": 30,
     "type": "normal",
     "distance": "mid",
-    "description": "Crouch HK (2HK) 权威击倒+30帧！",
+    "description": "下重脚 (2HK) 权威击倒+30帧！",
     "tags": [
       "+30f",
       "必杀技"
@@ -179,12 +179,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_halo_flight",
     "characterId": "ingrid",
     "name": "Halo Flight KD",
-    "nameZh": "Halo Flight (6HP) 击倒",
+    "nameZh": "光环飞掠 (6HP) 击倒",
     "input": "6HP",
     "adv": 38,
     "type": "normal",
     "distance": "close",
-    "description": "Halo Flight (6HP) 权威击倒+38帧！",
+    "description": "光环飞掠 (6HP) 权威击倒+38帧！",
     "tags": [
       "+38f",
       "必杀技"
@@ -194,12 +194,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_luminous_uppercut_1",
     "characterId": "ingrid",
     "name": "Luminous Uppercut 1 KD",
-    "nameZh": "Luminous Uppercut 1 (4HP) 击倒",
+    "nameZh": "夜光升击目标连段1 (4HP) 击倒",
     "input": "4HP",
     "adv": 45,
     "type": "normal",
     "distance": "close",
-    "description": "Luminous Uppercut 1 (4HP) 权威击倒+45帧！",
+    "description": "夜光升击目标连段1 (4HP) 权威击倒+45帧！",
     "tags": [
       "+45f",
       "必杀技"
@@ -209,12 +209,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_glowing_touch_2",
     "characterId": "ingrid",
     "name": "Glowing Touch 2 KD",
-    "nameZh": "Glowing Touch 2 (4MK > 5HP) 击倒",
+    "nameZh": "明耀之触目标连段2 (4MK > 5HP) 击倒",
     "input": "4MK > 5HP",
     "adv": 44,
     "type": "normal",
     "distance": "close",
-    "description": "Glowing Touch 2 (4MK > 5HP) 权威击倒+44帧！",
+    "description": "明耀之触目标连段2 (4MK > 5HP) 权威击倒+44帧！",
     "tags": [
       "+44f",
       "必杀技"
@@ -224,12 +224,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_luminous_uppercut_2",
     "characterId": "ingrid",
     "name": "Luminous Uppercut 2 KD",
-    "nameZh": "Luminous Uppercut 2 (4HP > 5HP) 击倒",
+    "nameZh": "夜光升击目标连段2 (4HP > 5HP) 击倒",
     "input": "4HP > 5HP",
     "adv": 43,
     "type": "normal",
     "distance": "close",
-    "description": "Luminous Uppercut 2 (4HP > 5HP) 权威击倒+43帧！",
+    "description": "夜光升击目标连段2 (4HP > 5HP) 权威击倒+43帧！",
     "tags": [
       "+43f",
       "必杀技"
@@ -239,12 +239,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_strange_knuckle",
     "characterId": "ingrid",
     "name": "Strange Knuckle KD",
-    "nameZh": "Strange Knuckle (LPLK) 击倒",
+    "nameZh": "奇异指关节摔 (前投) (LPLK) 击倒",
     "input": "LPLK",
     "adv": 21,
     "type": "throw",
     "distance": "close",
-    "description": "Strange Knuckle (LPLK) 权威击倒+21帧！",
+    "description": "奇异指关节摔 (前投) (LPLK) 权威击倒+21帧！",
     "tags": [
       "+21f",
       "投技"
@@ -254,12 +254,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_gravity_drop",
     "characterId": "ingrid",
     "name": "Gravity Drop KD",
-    "nameZh": "Gravity Drop (4LPLK) 击倒",
+    "nameZh": "重力落摔 (后投) (4LPLK) 击倒",
     "input": "4LPLK",
     "adv": 20,
     "type": "throw",
     "distance": "close",
-    "description": "Gravity Drop (4LPLK) 权威击倒+20帧！",
+    "description": "重力落摔 (后投) (4LPLK) 权威击倒+20帧！",
     "tags": [
       "+20f",
       "投技"
@@ -269,12 +269,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_drive_reversal_odd_flight",
     "characterId": "ingrid",
     "name": "Drive Reversal: Odd Flight KD",
-    "nameZh": "Drive Reversal: Odd Flight (6HPHK) 击倒",
+    "nameZh": "驱动反击·奇幻飞旋 (6HPHK) 击倒",
     "input": "6HPHK",
     "adv": 23,
     "type": "normal",
     "distance": "mid",
-    "description": "Drive Reversal: Odd Flight (6HPHK) 权威击倒+23帧！",
+    "description": "驱动反击·奇幻飞旋 (6HPHK) 权威击倒+23帧！",
     "tags": [
       "+23f",
       "必杀技"
@@ -284,12 +284,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_od_sun_shot",
     "characterId": "ingrid",
     "name": "OD Sun Shot KD",
-    "nameZh": "OD Sun Shot (236PP) 击倒",
+    "nameZh": "OD日轮光弹 (236PP) 击倒",
     "input": "236PP",
     "adv": 52,
     "type": "normal",
     "distance": "close",
-    "description": "OD Sun Shot (236PP) 权威击倒+52帧！",
+    "description": "OD日轮光弹 (236PP) 权威击倒+52帧！",
     "tags": [
       "+52f",
       "必杀技"
@@ -299,12 +299,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_mp_sun_flare",
     "characterId": "ingrid",
     "name": "MP Sun Flare KD",
-    "nameZh": "MP Sun Flare (214MP) 击倒",
+    "nameZh": "中太阳耀斑 (214MP) 击倒",
     "input": "214MP",
     "adv": 47,
     "type": "normal",
     "distance": "close",
-    "description": "MP Sun Flare (214MP) 权威击倒+47帧！",
+    "description": "中太阳耀斑 (214MP) 权威击倒+47帧！",
     "tags": [
       "+47f",
       "必杀技"
@@ -344,12 +344,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_od_sun_flare",
     "characterId": "ingrid",
     "name": "OD Sun Flare KD",
-    "nameZh": "OD Sun Flare (214PP) 击倒",
+    "nameZh": "OD太阳耀斑 (214PP) 击倒",
     "input": "214PP",
     "adv": 68,
     "type": "normal",
     "distance": "close",
-    "description": "OD Sun Flare (214PP) 权威击倒+68帧！",
+    "description": "OD太阳耀斑 (214PP) 权威击倒+68帧！",
     "tags": [
       "+68f",
       "必杀技"
@@ -479,12 +479,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_lk_sun_rise",
     "characterId": "ingrid",
     "name": "LK Sun Rise KD",
-    "nameZh": "LK Sun Rise (236LK) 击倒",
+    "nameZh": "轻日光跃升升龙 (236LK) 击倒",
     "input": "236LK",
     "adv": 36,
     "type": "normal",
     "distance": "close",
-    "description": "LK Sun Rise (236LK) 权威击倒+36帧！",
+    "description": "轻日光跃升升龙 (236LK) 权威击倒+36帧！",
     "tags": [
       "+36f",
       "必杀技"
@@ -494,12 +494,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_mk_sun_rise",
     "characterId": "ingrid",
     "name": "MK Sun Rise KD",
-    "nameZh": "MK Sun Rise (236MK) 击倒",
+    "nameZh": "中日光跃升升龙 (236MK) 击倒",
     "input": "236MK",
     "adv": 38,
     "type": "normal",
     "distance": "close",
-    "description": "MK Sun Rise (236MK) 权威击倒+38帧！",
+    "description": "中日光跃升升龙 (236MK) 权威击倒+38帧！",
     "tags": [
       "+38f",
       "必杀技"
@@ -509,12 +509,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_hk_sun_rise",
     "characterId": "ingrid",
     "name": "HK Sun Rise KD",
-    "nameZh": "HK Sun Rise (236HK) 击倒",
+    "nameZh": "重日光跃升升龙 (236HK) 击倒",
     "input": "236HK",
     "adv": 28,
     "type": "normal",
     "distance": "mid",
-    "description": "HK Sun Rise (236HK) 权威击倒+28帧！",
+    "description": "重日光跃升升龙 (236HK) 权威击倒+28帧！",
     "tags": [
       "+28f",
       "必杀技"
@@ -524,12 +524,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_od_sun_rise",
     "characterId": "ingrid",
     "name": "OD Sun Rise KD",
-    "nameZh": "OD Sun Rise (236KK) 击倒",
+    "nameZh": "OD日光跃升升龙 (236KK) 击倒",
     "input": "236KK",
     "adv": 40,
     "type": "normal",
     "distance": "close",
-    "description": "OD Sun Rise (236KK) 权威击倒+40帧！",
+    "description": "OD日光跃升升龙 (236KK) 权威击倒+40帧！",
     "tags": [
       "+40f",
       "必杀技"
@@ -539,12 +539,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_sun_veil",
     "characterId": "ingrid",
     "name": "Sun Veil KD",
-    "nameZh": "Sun Veil (22K) 击倒",
+    "nameZh": "太阳光幕 (22K) 击倒",
     "input": "22K",
     "adv": 23,
     "type": "normal",
     "distance": "mid",
-    "description": "Sun Veil (22K) 权威击倒+23帧！",
+    "description": "太阳光幕 (22K) 权威击倒+23帧！",
     "tags": [
       "+23f",
       "必杀技"
@@ -554,12 +554,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_od_sun_veil",
     "characterId": "ingrid",
     "name": "OD Sun Veil KD",
-    "nameZh": "OD Sun Veil (22KK) 击倒",
+    "nameZh": "OD太阳光幕 (无敌反击) (22KK) 击倒",
     "input": "22KK",
     "adv": 52,
     "type": "normal",
     "distance": "close",
-    "description": "OD Sun Veil (22KK) 权威击倒+52帧！",
+    "description": "OD太阳光幕 (无敌反击) (22KK) 权威击倒+52帧！",
     "tags": [
       "+52f",
       "必杀技"
@@ -569,12 +569,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_vanishing_sun_forward_",
     "characterId": "ingrid",
     "name": "Vanishing Sun (forward) KD",
-    "nameZh": "Vanishing Sun (forward) (6KKK) 击倒",
+    "nameZh": "消隐之日·前瞬步 (6KKK) 击倒",
     "input": "6KKK",
     "adv": 44,
     "type": "normal",
     "distance": "close",
-    "description": "Vanishing Sun (forward) (6KKK) 权威击倒+44帧！",
+    "description": "消隐之日·前瞬步 (6KKK) 权威击倒+44帧！",
     "tags": [
       "+44f",
       "必杀技"
@@ -584,12 +584,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_vanishing_sun_air_",
     "characterId": "ingrid",
     "name": "Vanishing Sun (air) KD",
-    "nameZh": "Vanishing Sun (air) (2KKK) 击倒",
+    "nameZh": "消隐之日·空中瞬步 (2KKK) 击倒",
     "input": "2KKK",
     "adv": 48,
     "type": "normal",
     "distance": "close",
-    "description": "Vanishing Sun (air) (2KKK) 权威击倒+48帧！",
+    "description": "消隐之日·空中瞬步 (2KKK) 权威击倒+48帧！",
     "tags": [
       "+48f",
       "必杀技"
@@ -599,12 +599,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_shining_sun",
     "characterId": "ingrid",
     "name": "Shining Sun KD",
-    "nameZh": "Shining Sun (236236K) 击倒",
+    "nameZh": "闪耀之日 (Lv.1 (SA1)) (236236K) 击倒",
     "input": "236236K",
     "adv": 12,
     "type": "super",
     "distance": "mid",
-    "description": "Shining Sun (236236K) 权威击倒+12帧！",
+    "description": "闪耀之日 (Lv.1 (SA1)) (236236K) 权威击倒+12帧！",
     "tags": [
       "+12f",
       "超必杀"
@@ -614,12 +614,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_cosmic_ray",
     "characterId": "ingrid",
     "name": "Cosmic Ray KD",
-    "nameZh": "Cosmic Ray (236236P) 击倒",
+    "nameZh": "宇宙射线 (Lv.2 (SA2)) (236236P) 击倒",
     "input": "236236P",
     "adv": 30,
     "type": "super",
     "distance": "mid",
-    "description": "Cosmic Ray (236236P) 权威击倒+30帧！",
+    "description": "宇宙射线 (Lv.2 (SA2)) (236236P) 权威击倒+30帧！",
     "tags": [
       "+30f",
       "超必杀"
@@ -644,12 +644,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_sunburst_beam",
     "characterId": "ingrid",
     "name": "Sunburst Beam KD",
-    "nameZh": "Sunburst Beam (22PPP) 击倒",
+    "nameZh": "日耀光束 (22PPP) 击倒",
     "input": "22PPP",
     "adv": 48,
     "type": "normal",
     "distance": "close",
-    "description": "Sunburst Beam (22PPP) 权威击倒+48帧！",
+    "description": "日耀光束 (22PPP) 权威击倒+48帧！",
     "tags": [
       "+48f",
       "必杀技"
@@ -659,12 +659,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_sunburst_blow",
     "characterId": "ingrid",
     "name": "Sunburst Blow KD",
-    "nameZh": "Sunburst Blow (214214K) 击倒",
+    "nameZh": "日耀重击 (SA2) (214214K) 击倒",
     "input": "214214K",
     "adv": 27,
     "type": "super",
     "distance": "mid",
-    "description": "Sunburst Blow (214214K) 权威击倒+27帧！",
+    "description": "日耀重击 (SA2) (214214K) 权威击倒+27帧！",
     "tags": [
       "+27f",
       "超必杀"
@@ -674,12 +674,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_sun_octopus",
     "characterId": "ingrid",
     "name": "Sun Octopus KD",
-    "nameZh": "Sun Octopus (4268KK) 击倒",
+    "nameZh": "太阳八爪狂舞 (4268KK) 击倒",
     "input": "4268KK",
     "adv": 36,
     "type": "normal",
     "distance": "close",
-    "description": "Sun Octopus (4268KK) 权威击倒+36帧！",
+    "description": "太阳八爪狂舞 (4268KK) 权威击倒+36帧！",
     "tags": [
       "+36f",
       "必杀技"
@@ -764,12 +764,12 @@ export const ingridData: CharacterProfile = {
     "id": "kd_monoid_super",
     "characterId": "ingrid",
     "name": "Monoid Super KD",
-    "nameZh": "Monoid Super (214236HP/HK) 击倒",
+    "nameZh": "使魔·终极大狂欢 (214236HP/HK) 击倒",
     "input": "214236HP/HK",
     "adv": -124,
     "type": "normal",
     "distance": "mid",
-    "description": "Monoid Super (214236HP/HK) 权威击倒+-124帧！",
+    "description": "使魔·终极大狂欢 (214236HP/HK) 权威击倒+-124帧！",
     "tags": [
       "+-124f",
       "必杀技"
@@ -780,7 +780,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "stand_lp",
     "name": "Stand LP",
-    "nameZh": "Stand LP",
+    "nameZh": "站轻拳",
     "input": "5LP",
     "category": "normal",
     "startup": 4,
@@ -797,7 +797,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "stand_mp",
     "name": "Stand MP",
-    "nameZh": "Stand MP",
+    "nameZh": "站中拳",
     "input": "5MP",
     "category": "normal",
     "startup": 6,
@@ -814,7 +814,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "stand_hp",
     "name": "Stand HP",
-    "nameZh": "Stand HP",
+    "nameZh": "站重拳",
     "input": "5HP",
     "category": "normal",
     "startup": 12,
@@ -832,7 +832,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "stand_lk",
     "name": "Stand LK",
-    "nameZh": "Stand LK",
+    "nameZh": "站轻脚",
     "input": "5LK",
     "category": "normal",
     "startup": 5,
@@ -849,7 +849,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "stand_mk",
     "name": "Stand MK",
-    "nameZh": "Stand MK",
+    "nameZh": "站中脚",
     "input": "5MK",
     "category": "normal",
     "startup": 8,
@@ -866,7 +866,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "stand_hk",
     "name": "Stand HK",
-    "nameZh": "Stand HK",
+    "nameZh": "站重脚",
     "input": "5HK",
     "category": "normal",
     "startup": 9,
@@ -883,7 +883,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "crouch_lp",
     "name": "Crouch LP",
-    "nameZh": "Crouch LP",
+    "nameZh": "下轻拳",
     "input": "2LP",
     "category": "normal",
     "startup": 4,
@@ -900,7 +900,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "crouch_mp",
     "name": "Crouch MP",
-    "nameZh": "Crouch MP",
+    "nameZh": "下中拳",
     "input": "2MP",
     "category": "normal",
     "startup": 7,
@@ -918,7 +918,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "crouch_hp",
     "name": "Crouch HP",
-    "nameZh": "Crouch HP",
+    "nameZh": "下重拳",
     "input": "2HP",
     "category": "normal",
     "startup": 12,
@@ -935,7 +935,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "crouch_lk",
     "name": "Crouch LK",
-    "nameZh": "Crouch LK",
+    "nameZh": "下轻脚",
     "input": "2LK",
     "category": "normal",
     "startup": 5,
@@ -952,7 +952,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "crouch_mk",
     "name": "Crouch MK",
-    "nameZh": "Crouch MK",
+    "nameZh": "下中脚",
     "input": "2MK",
     "category": "normal",
     "startup": 8,
@@ -969,7 +969,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "crouch_hk",
     "name": "Crouch HK",
-    "nameZh": "Crouch HK",
+    "nameZh": "下重脚",
     "input": "2HK",
     "category": "normal",
     "startup": 10,
@@ -985,7 +985,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "jump_lp",
     "name": "Jump LP",
-    "nameZh": "Jump LP",
+    "nameZh": "跳轻拳",
     "input": "8LP",
     "category": "normal",
     "startup": 4,
@@ -1002,7 +1002,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "jump_mp",
     "name": "Jump MP",
-    "nameZh": "Jump MP",
+    "nameZh": "跳中拳",
     "input": "8MP",
     "category": "normal",
     "startup": 8,
@@ -1019,7 +1019,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "jump_hp",
     "name": "Jump HP",
-    "nameZh": "Jump HP",
+    "nameZh": "跳重拳",
     "input": "8HP",
     "category": "normal",
     "startup": 9,
@@ -1036,7 +1036,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "jump_lk",
     "name": "Jump LK",
-    "nameZh": "Jump LK",
+    "nameZh": "跳轻脚",
     "input": "8LK",
     "category": "normal",
     "startup": 6,
@@ -1053,7 +1053,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "jump_mk",
     "name": "Jump MK",
-    "nameZh": "Jump MK",
+    "nameZh": "跳中脚",
     "input": "8MK",
     "category": "normal",
     "startup": 8,
@@ -1070,7 +1070,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "jump_hk",
     "name": "Jump HK",
-    "nameZh": "Jump HK",
+    "nameZh": "跳重脚",
     "input": "8HK",
     "category": "normal",
     "startup": 12,
@@ -1087,7 +1087,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "sun_bright",
     "name": "Sun Bright",
-    "nameZh": "Sun Bright",
+    "nameZh": "日辉光芒",
     "input": "6MP",
     "category": "command_normal",
     "startup": 21,
@@ -1104,7 +1104,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "halo_flight",
     "name": "Halo Flight",
-    "nameZh": "Halo Flight",
+    "nameZh": "光环飞掠",
     "input": "6HP",
     "category": "command_normal",
     "startup": 17,
@@ -1121,7 +1121,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "glowing_touch_1",
     "name": "Glowing Touch 1",
-    "nameZh": "Glowing Touch 1",
+    "nameZh": "明耀之触目标连段1",
     "input": "4MK",
     "category": "command_normal",
     "startup": 9,
@@ -1138,7 +1138,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "luminous_uppercut_1",
     "name": "Luminous Uppercut 1",
-    "nameZh": "Luminous Uppercut 1",
+    "nameZh": "夜光升击目标连段1",
     "input": "4HP",
     "category": "command_normal",
     "startup": 14,
@@ -1154,7 +1154,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "pretty_heel_kick",
     "name": "Pretty Heel Kick",
-    "nameZh": "Pretty Heel Kick",
+    "nameZh": "华丽踵落",
     "input": "5MP > 5MK",
     "category": "target_combo",
     "startup": 12,
@@ -1171,7 +1171,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "glowing_touch_2",
     "name": "Glowing Touch 2",
-    "nameZh": "Glowing Touch 2",
+    "nameZh": "明耀之触目标连段2",
     "input": "4MK > 5HP",
     "category": "target_combo",
     "startup": 20,
@@ -1187,7 +1187,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "luminous_uppercut_2",
     "name": "Luminous Uppercut 2",
-    "nameZh": "Luminous Uppercut 2",
+    "nameZh": "夜光升击目标连段2",
     "input": "4HP > 5HP",
     "category": "target_combo",
     "startup": 23,
@@ -1203,7 +1203,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "satellite_leap",
     "name": "Satellite Leap",
-    "nameZh": "Satellite Leap",
+    "nameZh": "卫星腾跃连段",
     "input": "8HK > 8HK",
     "category": "target_combo",
     "startup": 8,
@@ -1219,7 +1219,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "strange_knuckle",
     "name": "Strange Knuckle",
-    "nameZh": "Strange Knuckle",
+    "nameZh": "奇异指关节摔 (前投)",
     "input": "LPLK",
     "category": "throw",
     "startup": 5,
@@ -1235,7 +1235,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "gravity_drop",
     "name": "Gravity Drop",
-    "nameZh": "Gravity Drop",
+    "nameZh": "重力落摔 (后投)",
     "input": "4LPLK",
     "category": "throw",
     "startup": 5,
@@ -1251,7 +1251,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "drive_impact_twinkle_kick",
     "name": "Drive Impact: Twinkle Kick",
-    "nameZh": "Drive Impact: Twinkle Kick",
+    "nameZh": "驱动迸发·闪烁飞踢",
     "input": "HPHK",
     "category": "system",
     "startup": 26,
@@ -1267,7 +1267,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "drive_reversal_odd_flight",
     "name": "Drive Reversal: Odd Flight",
-    "nameZh": "Drive Reversal: Odd Flight",
+    "nameZh": "驱动反击·奇幻飞旋",
     "input": "6HPHK",
     "category": "system",
     "startup": 20,
@@ -1283,7 +1283,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "drive_parry",
     "name": "Drive Parry",
-    "nameZh": "Drive Parry",
+    "nameZh": "驱动化解 / 蓝防",
     "input": "MPMK",
     "category": "system",
     "startup": 1,
@@ -1300,7 +1300,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "drive_rush",
     "name": "Drive Rush",
-    "nameZh": "Drive Rush",
+    "nameZh": "驱动冲刺 / 绿冲",
     "input": "MPMK / 66 (cancel)",
     "category": "special",
     "startup": 9,
@@ -1317,7 +1317,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "taunt",
     "name": "Taunt",
-    "nameZh": "Taunt",
+    "nameZh": "挑衅",
     "input": "5PPPKKK",
     "category": "special",
     "startup": 382,
@@ -1333,7 +1333,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "lp_sun_shot",
     "name": "LP Sun Shot",
-    "nameZh": "LP Sun Shot",
+    "nameZh": "轻日轮光弹",
     "input": "236LP",
     "category": "special",
     "startup": 17,
@@ -1350,7 +1350,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "mp_sun_shot",
     "name": "MP Sun Shot",
-    "nameZh": "MP Sun Shot",
+    "nameZh": "中日轮光弹",
     "input": "236MP",
     "category": "special",
     "startup": 17,
@@ -1367,7 +1367,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "hp_sun_shot",
     "name": "HP Sun Shot",
-    "nameZh": "HP Sun Shot",
+    "nameZh": "重日轮光弹",
     "input": "236HP",
     "category": "special",
     "startup": 15,
@@ -1385,7 +1385,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "od_sun_shot",
     "name": "OD Sun Shot",
-    "nameZh": "OD Sun Shot",
+    "nameZh": "OD日轮光弹",
     "input": "236PP",
     "category": "special",
     "startup": 17,
@@ -1401,7 +1401,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "lp_sun_flare",
     "name": "LP Sun Flare",
-    "nameZh": "LP Sun Flare",
+    "nameZh": "轻太阳耀斑",
     "input": "214LP",
     "category": "special",
     "startup": 0,
@@ -1417,7 +1417,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "mp_sun_flare",
     "name": "MP Sun Flare",
-    "nameZh": "MP Sun Flare",
+    "nameZh": "中太阳耀斑",
     "input": "214MP",
     "category": "special",
     "startup": 21,
@@ -1433,7 +1433,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "hp_sun_flare_1_stock_",
     "name": "HP Sun Flare (1 stock)",
-    "nameZh": "HP Sun Flare (1 stock)",
+    "nameZh": "重太阳耀斑 (1星强化)",
     "input": "214HP (1 stock)",
     "category": "special",
     "startup": 18,
@@ -1449,7 +1449,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "hp_sun_flare_2_stock_",
     "name": "HP Sun Flare (2 stock)",
-    "nameZh": "HP Sun Flare (2 stock)",
+    "nameZh": "重太阳耀斑 (2星强化)",
     "input": "214HP (2 stock)",
     "category": "special",
     "startup": 18,
@@ -1465,7 +1465,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "od_sun_flare",
     "name": "OD Sun Flare",
-    "nameZh": "OD Sun Flare",
+    "nameZh": "OD太阳耀斑",
     "input": "214PP",
     "category": "special",
     "startup": 18,
@@ -1481,7 +1481,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "od_sun_flare_1_stock_",
     "name": "OD Sun Flare (1 stock)",
-    "nameZh": "OD Sun Flare (1 stock)",
+    "nameZh": "OD太阳耀斑 (1星强化)",
     "input": "214PP (1 stock)",
     "category": "special",
     "startup": 18,
@@ -1497,7 +1497,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "od_sun_flare_2_stock_",
     "name": "OD Sun Flare (2 stock)",
-    "nameZh": "OD Sun Flare (2 stock)",
+    "nameZh": "OD太阳耀斑 (2星强化)",
     "input": "214PP (2 stock)",
     "category": "special",
     "startup": 18,
@@ -1513,7 +1513,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "lp_solar_burst",
     "name": "LP Solar Burst",
-    "nameZh": "LP Solar Burst",
+    "nameZh": "空中轻日芒爆发",
     "input": "214LP (air)",
     "category": "special",
     "startup": 0,
@@ -1529,7 +1529,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "mp_solar_burst",
     "name": "MP Solar Burst",
-    "nameZh": "MP Solar Burst",
+    "nameZh": "空中中日芒爆发",
     "input": "214MP (air)",
     "category": "special",
     "startup": 22,
@@ -1546,7 +1546,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "hp_solar_burst_1_stock_",
     "name": "HP Solar Burst (1 stock)",
-    "nameZh": "HP Solar Burst (1 stock)",
+    "nameZh": "空中重日芒爆发 (1星)",
     "input": "214HP (air 1 stock)",
     "category": "special",
     "startup": 22,
@@ -1563,7 +1563,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "hp_solar_burst_2_stock_",
     "name": "HP Solar Burst (2 stock)",
-    "nameZh": "HP Solar Burst (2 stock)",
+    "nameZh": "空中重日芒爆发 (2星)",
     "input": "214HP (air 2 stock)",
     "category": "special",
     "startup": 22,
@@ -1580,7 +1580,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "od_solar_burst",
     "name": "OD Solar Burst",
-    "nameZh": "OD Solar Burst",
+    "nameZh": "空中OD日芒爆发",
     "input": "214PP (air)",
     "category": "special",
     "startup": 22,
@@ -1597,7 +1597,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "od_solar_burst_1_stock_",
     "name": "OD Solar Burst (1 stock)",
-    "nameZh": "OD Solar Burst (1 stock)",
+    "nameZh": "空中OD日芒爆发 (1星)",
     "input": "214PP (air 1 stock)",
     "category": "special",
     "startup": 22,
@@ -1614,7 +1614,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "od_solar_burst_2_stock_",
     "name": "OD Solar Burst (2 stock)",
-    "nameZh": "OD Solar Burst (2 stock)",
+    "nameZh": "空中OD日芒爆发 (2星)",
     "input": "214PP (air 2 stock)",
     "category": "special",
     "startup": 22,
@@ -1630,7 +1630,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "lk_sun_rise",
     "name": "LK Sun Rise",
-    "nameZh": "LK Sun Rise",
+    "nameZh": "轻日光跃升升龙",
     "input": "236LK",
     "category": "special",
     "startup": 8,
@@ -1646,7 +1646,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "mk_sun_rise",
     "name": "MK Sun Rise",
-    "nameZh": "MK Sun Rise",
+    "nameZh": "中日光跃升升龙",
     "input": "236MK",
     "category": "special",
     "startup": 13,
@@ -1662,7 +1662,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "hk_sun_rise",
     "name": "HK Sun Rise",
-    "nameZh": "HK Sun Rise",
+    "nameZh": "重日光跃升升龙",
     "input": "236HK",
     "category": "special",
     "startup": 27,
@@ -1678,7 +1678,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "od_sun_rise",
     "name": "OD Sun Rise",
-    "nameZh": "OD Sun Rise",
+    "nameZh": "OD日光跃升升龙",
     "input": "236KK",
     "category": "special",
     "startup": 14,
@@ -1694,7 +1694,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "sun_veil",
     "name": "Sun Veil",
-    "nameZh": "Sun Veil",
+    "nameZh": "太阳光幕",
     "input": "22K",
     "category": "command_normal",
     "startup": 6,
@@ -1710,7 +1710,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "od_sun_veil",
     "name": "OD Sun Veil",
-    "nameZh": "OD Sun Veil",
+    "nameZh": "OD太阳光幕 (无敌反击)",
     "input": "22KK",
     "category": "special",
     "startup": 1,
@@ -1726,7 +1726,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "vanishing_sun_forward_",
     "name": "Vanishing Sun (forward)",
-    "nameZh": "Vanishing Sun (forward)",
+    "nameZh": "消隐之日·前瞬步",
     "input": "6KKK",
     "category": "special",
     "startup": 36,
@@ -1742,7 +1742,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "vanishing_sun_air_",
     "name": "Vanishing Sun (air)",
-    "nameZh": "Vanishing Sun (air)",
+    "nameZh": "消隐之日·空中瞬步",
     "input": "2KKK",
     "category": "special",
     "startup": 43,
@@ -1758,7 +1758,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "vanishing_sun_backward_",
     "name": "Vanishing Sun (backward)",
-    "nameZh": "Vanishing Sun (backward)",
+    "nameZh": "消隐之日·后瞬步",
     "input": "4KKK",
     "category": "special",
     "startup": 13,
@@ -1774,7 +1774,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "shining_sun",
     "name": "Shining Sun",
-    "nameZh": "Shining Sun",
+    "nameZh": "闪耀之日 (Lv.1 (SA1))",
     "input": "236236K",
     "category": "super",
     "startup": 11,
@@ -1790,7 +1790,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "order_of_the_sun",
     "name": "Order of the Sun",
-    "nameZh": "Order of the Sun",
+    "nameZh": "太阳秩序指令",
     "input": "214214P",
     "category": "super",
     "startup": 1,
@@ -1806,7 +1806,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "cosmic_ray",
     "name": "Cosmic Ray",
-    "nameZh": "Cosmic Ray",
+    "nameZh": "宇宙射线 (Lv.2 (SA2))",
     "input": "236236P",
     "category": "super",
     "startup": 20,
@@ -1822,7 +1822,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "cosmic_ray_critical_art_",
     "name": "Cosmic Ray (Critical Art)",
-    "nameZh": "Cosmic Ray (Critical Art)",
+    "nameZh": "宇宙射线 (致命伤害 (CA))",
     "input": "236236P (CA)",
     "category": "super",
     "startup": 20,
@@ -1838,7 +1838,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "sunburst_beam",
     "name": "Sunburst Beam",
-    "nameZh": "Sunburst Beam",
+    "nameZh": "日耀光束",
     "input": "22PPP",
     "category": "special",
     "startup": 61,
@@ -1854,7 +1854,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "sunburst_blow",
     "name": "Sunburst Blow",
-    "nameZh": "Sunburst Blow",
+    "nameZh": "日耀重击 (SA2)",
     "input": "214214K",
     "category": "super",
     "startup": 27,
@@ -1870,7 +1870,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "sun_octopus",
     "name": "Sun Octopus",
-    "nameZh": "Sun Octopus",
+    "nameZh": "太阳八爪狂舞",
     "input": "4268KK",
     "category": "special",
     "startup": 6,
@@ -1886,7 +1886,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "monoid_low_dive",
     "name": "Monoid Low Dive",
-    "nameZh": "Monoid Low Dive",
+    "nameZh": "使魔·下段俯冲",
     "input": "5LP or 5LK (Monoid)",
     "category": "special",
     "startup": 38,
@@ -1902,7 +1902,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "monoid_overhead_hammer",
     "name": "Monoid Overhead Hammer",
-    "nameZh": "Monoid Overhead Hammer",
+    "nameZh": "使魔·中段破防重锤",
     "input": "5MP or 5MK (Monoid)",
     "category": "special",
     "startup": 37,
@@ -1918,7 +1918,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "monoid_star_thrust",
     "name": "Monoid Star Thrust",
-    "nameZh": "Monoid Star Thrust",
+    "nameZh": "使魔·星光突刺",
     "input": "5HP or 5HK (Monoid)",
     "category": "special",
     "startup": 30,
@@ -1934,7 +1934,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "monoid_beam",
     "name": "Monoid Beam",
-    "nameZh": "Monoid Beam",
+    "nameZh": "使魔·光束炮",
     "input": "5HP+5HK (Monoid)",
     "category": "special",
     "startup": 32,
@@ -1950,7 +1950,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "monoid_aerial_strike",
     "name": "Monoid Aerial Strike",
-    "nameZh": "Monoid Aerial Strike",
+    "nameZh": "使魔·制空截击",
     "input": "j.A (Monoid)",
     "category": "special",
     "startup": 13,
@@ -1966,7 +1966,7 @@ export const ingridData: CharacterProfile = {
   {
     "id": "monoid_super",
     "name": "Monoid Super",
-    "nameZh": "Monoid Super",
+    "nameZh": "使魔·终极大狂欢",
     "input": "214236HP/HK",
     "category": "special",
     "startup": 46,

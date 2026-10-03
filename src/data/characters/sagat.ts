@@ -149,12 +149,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_crouch_hk",
     "characterId": "sagat",
     "name": "Crouch HK KD",
-    "nameZh": "Crouch HK (2HK) 击倒",
+    "nameZh": "下重脚 (2HK) 击倒",
     "input": "2HK",
     "adv": 29,
     "type": "normal",
     "distance": "mid",
-    "description": "Crouch HK (2HK) 权威击倒+29帧！",
+    "description": "下重脚 (2HK) 权威击倒+29帧！",
     "tags": [
       "+29f",
       "必杀技"
@@ -180,12 +180,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_tiger_monolith",
     "characterId": "sagat",
     "name": "Tiger Monolith KD",
-    "nameZh": "Tiger Monolith (4HP) 击倒",
+    "nameZh": "猛虎巨石踢 (4HP) 击倒",
     "input": "4HP",
     "adv": 34,
     "type": "normal",
     "distance": "mid",
-    "description": "Tiger Monolith (4HP) 权威击倒+34帧！",
+    "description": "猛虎巨石踢 (4HP) 权威击倒+34帧！",
     "tags": [
       "+34f",
       "必杀技"
@@ -195,12 +195,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_step_middle_kick",
     "characterId": "sagat",
     "name": "Step Middle Kick KD",
-    "nameZh": "Step Middle Kick (5MK > HK) 击倒",
+    "nameZh": "垫步中踢目标连段 (5MK > HK) 击倒",
     "input": "5MK > HK",
     "adv": 38,
     "type": "normal",
     "distance": "close",
-    "description": "Step Middle Kick (5MK > HK) 权威击倒+38帧！",
+    "description": "垫步中踢目标连段 (5MK > HK) 权威击倒+38帧！",
     "tags": [
       "+38f",
       "必杀技"
@@ -210,12 +210,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_tiger_sting",
     "characterId": "sagat",
     "name": "Tiger Sting KD",
-    "nameZh": "Tiger Sting (5HP > HK) 击倒",
+    "nameZh": "猛虎毒刺目标连段 (5HP > HK) 击倒",
     "input": "5HP > HK",
     "adv": 39,
     "type": "normal",
     "distance": "close",
-    "description": "Tiger Sting (5HP > HK) 权威击倒+39帧！",
+    "description": "猛虎毒刺目标连段 (5HP > HK) 权威击倒+39帧！",
     "tags": [
       "+39f",
       "必杀技"
@@ -225,12 +225,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_tiger_rise",
     "characterId": "sagat",
     "name": "Tiger Rise KD",
-    "nameZh": "Tiger Rise (2MP > HK) 击倒",
+    "nameZh": "猛虎升腾目标连段 (2MP > HK) 击倒",
     "input": "2MP > HK",
     "adv": 32,
     "type": "normal",
     "distance": "mid",
-    "description": "Tiger Rise (2MP > HK) 权威击倒+32帧！",
+    "description": "猛虎升腾目标连段 (2MP > HK) 权威击倒+32帧！",
     "tags": [
       "+32f",
       "必杀技"
@@ -240,12 +240,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_tiger_hang",
     "characterId": "sagat",
     "name": "Tiger Hang KD",
-    "nameZh": "Tiger Hang (LPLK) 击倒",
+    "nameZh": "猛虎锁喉摔 (前投) (LPLK) 击倒",
     "input": "LPLK",
     "adv": 21,
     "type": "throw",
     "distance": "close",
-    "description": "Tiger Hang (LPLK) 权威击倒+21帧！",
+    "description": "猛虎锁喉摔 (前投) (LPLK) 权威击倒+21帧！",
     "tags": [
       "+21f",
       "投技"
@@ -255,12 +255,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_tiger_carry",
     "characterId": "sagat",
     "name": "Tiger Carry KD",
-    "nameZh": "Tiger Carry (4LPLK) 击倒",
+    "nameZh": "猛虎背摔 (后投) (4LPLK) 击倒",
     "input": "4LPLK",
     "adv": 21,
     "type": "throw",
     "distance": "close",
-    "description": "Tiger Carry (4LPLK) 权威击倒+21帧！",
+    "description": "猛虎背摔 (后投) (4LPLK) 权威击倒+21帧！",
     "tags": [
       "+21f",
       "投技"
@@ -270,12 +270,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_drive_reversal_tiger_twin_babel",
     "characterId": "sagat",
     "name": "Drive Reversal: Tiger Twin Babel KD",
-    "nameZh": "Drive Reversal: Tiger Twin Babel (6HPHK) 击倒",
+    "nameZh": "驱动反击·猛虎双通天 (6HPHK) 击倒",
     "input": "6HPHK",
     "adv": 23,
     "type": "normal",
     "distance": "mid",
-    "description": "Drive Reversal: Tiger Twin Babel (6HPHK) 权威击倒+23帧！",
+    "description": "驱动反击·猛虎双通天 (6HPHK) 权威击倒+23帧！",
     "tags": [
       "+23f",
       "必杀技"
@@ -285,12 +285,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_od_low_tiger_shot",
     "characterId": "sagat",
     "name": "OD Low Tiger Shot KD",
-    "nameZh": "OD Low Tiger Shot (236LPMP or LPHP) 击倒",
+    "nameZh": "OD猛虎低波 (236LPMP or LPHP) 击倒",
     "input": "236LPMP or LPHP",
     "adv": 52,
     "type": "normal",
     "distance": "close",
-    "description": "OD Low Tiger Shot (236LPMP or LPHP) 权威击倒+52帧！",
+    "description": "OD猛虎低波 (236LPMP or LPHP) 权威击倒+52帧！",
     "tags": [
       "+52f",
       "必杀技"
@@ -300,12 +300,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_od_high_tiger_shot",
     "characterId": "sagat",
     "name": "OD High Tiger Shot KD",
-    "nameZh": "OD High Tiger Shot (236MPHP) 击倒",
+    "nameZh": "OD猛虎高波 (236MPHP) 击倒",
     "input": "236MPHP",
     "adv": 63,
     "type": "normal",
     "distance": "close",
-    "description": "OD High Tiger Shot (236MPHP) 权威击倒+63帧！",
+    "description": "OD猛虎高波 (236MPHP) 权威击倒+63帧！",
     "tags": [
       "+63f",
       "必杀技"
@@ -315,12 +315,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_lp_tiger_uppercut",
     "characterId": "sagat",
     "name": "LP Tiger Uppercut KD",
-    "nameZh": "LP Tiger Uppercut (623LP) 击倒",
+    "nameZh": "轻猛虎升龙拳 (623LP) 击倒",
     "input": "623LP",
     "adv": 32,
     "type": "normal",
     "distance": "mid",
-    "description": "LP Tiger Uppercut (623LP) 权威击倒+32帧！",
+    "description": "轻猛虎升龙拳 (623LP) 权威击倒+32帧！",
     "tags": [
       "+32f",
       "必杀技"
@@ -330,12 +330,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_mp_tiger_uppercut",
     "characterId": "sagat",
     "name": "MP Tiger Uppercut KD",
-    "nameZh": "MP Tiger Uppercut (623MP) 击倒",
+    "nameZh": "中猛虎升龙拳 (623MP) 击倒",
     "input": "623MP",
     "adv": 27,
     "type": "normal",
     "distance": "mid",
-    "description": "MP Tiger Uppercut (623MP) 权威击倒+27帧！",
+    "description": "中猛虎升龙拳 (623MP) 权威击倒+27帧！",
     "tags": [
       "+27f",
       "必杀技"
@@ -345,12 +345,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_hp_tiger_uppercut",
     "characterId": "sagat",
     "name": "HP Tiger Uppercut KD",
-    "nameZh": "HP Tiger Uppercut (623HP) 击倒",
+    "nameZh": "重猛虎升龙拳 (623HP) 击倒",
     "input": "623HP",
     "adv": 27,
     "type": "normal",
     "distance": "mid",
-    "description": "HP Tiger Uppercut (623HP) 权威击倒+27帧！",
+    "description": "重猛虎升龙拳 (623HP) 权威击倒+27帧！",
     "tags": [
       "+27f",
       "必杀技"
@@ -375,12 +375,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_od_tiger_uppercut",
     "characterId": "sagat",
     "name": "OD Tiger Uppercut KD",
-    "nameZh": "OD Tiger Uppercut (623PP) 击倒",
+    "nameZh": "OD猛虎升龙拳 (623PP) 击倒",
     "input": "623PP",
     "adv": 25,
     "type": "normal",
     "distance": "mid",
-    "description": "OD Tiger Uppercut (623PP) 权威击倒+25帧！",
+    "description": "OD猛虎升龙拳 (623PP) 权威击倒+25帧！",
     "tags": [
       "+25f",
       "必杀技"
@@ -390,12 +390,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_lk_tiger_knee_crush",
     "characterId": "sagat",
     "name": "LK Tiger Knee Crush KD",
-    "nameZh": "LK Tiger Knee Crush (236LK) 击倒",
+    "nameZh": "轻猛虎膝碎 (236LK) 击倒",
     "input": "236LK",
     "adv": 36,
     "type": "normal",
     "distance": "close",
-    "description": "LK Tiger Knee Crush (236LK) 权威击倒+36帧！",
+    "description": "轻猛虎膝碎 (236LK) 权威击倒+36帧！",
     "tags": [
       "+36f",
       "必杀技"
@@ -405,12 +405,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_mk_tiger_knee_crush",
     "characterId": "sagat",
     "name": "MK Tiger Knee Crush KD",
-    "nameZh": "MK Tiger Knee Crush (236MK) 击倒",
+    "nameZh": "中猛虎膝碎 (236MK) 击倒",
     "input": "236MK",
     "adv": 39,
     "type": "normal",
     "distance": "close",
-    "description": "MK Tiger Knee Crush (236MK) 权威击倒+39帧！",
+    "description": "中猛虎膝碎 (236MK) 权威击倒+39帧！",
     "tags": [
       "+39f",
       "必杀技"
@@ -420,12 +420,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_hk_tiger_knee_crush",
     "characterId": "sagat",
     "name": "HK Tiger Knee Crush KD",
-    "nameZh": "HK Tiger Knee Crush (236HK) 击倒",
+    "nameZh": "重猛虎膝碎 (236HK) 击倒",
     "input": "236HK",
     "adv": 40,
     "type": "normal",
     "distance": "close",
-    "description": "HK Tiger Knee Crush (236HK) 权威击倒+40帧！",
+    "description": "重猛虎膝碎 (236HK) 权威击倒+40帧！",
     "tags": [
       "+40f",
       "必杀技"
@@ -435,12 +435,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_od_tiger_knee_crush",
     "characterId": "sagat",
     "name": "OD Tiger Knee Crush KD",
-    "nameZh": "OD Tiger Knee Crush (236KK) 击倒",
+    "nameZh": "OD猛虎膝碎 (236KK) 击倒",
     "input": "236KK",
     "adv": 46,
     "type": "normal",
     "distance": "close",
-    "description": "OD Tiger Knee Crush (236KK) 权威击倒+46帧！",
+    "description": "OD猛虎膝碎 (236KK) 权威击倒+46帧！",
     "tags": [
       "+46f",
       "必杀技"
@@ -450,12 +450,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_greedy_tiger",
     "characterId": "sagat",
     "name": "Greedy Tiger KD",
-    "nameZh": "Greedy Tiger (214K > 6MK) 击倒",
+    "nameZh": "贪食猛虎派生 (214K > 6MK) 击倒",
     "input": "214K > 6MK",
     "adv": 48,
     "type": "normal",
     "distance": "close",
-    "description": "Greedy Tiger (214K > 6MK) 权威击倒+48帧！",
+    "description": "贪食猛虎派生 (214K > 6MK) 权威击倒+48帧！",
     "tags": [
       "+48f",
       "必杀技"
@@ -465,12 +465,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_nova_tiger",
     "characterId": "sagat",
     "name": "Nova Tiger KD",
-    "nameZh": "Nova Tiger (214K > 6HK) 击倒",
+    "nameZh": "超新星猛虎派生 (214K > 6HK) 击倒",
     "input": "214K > 6HK",
     "adv": 62,
     "type": "normal",
     "distance": "close",
-    "description": "Nova Tiger (214K > 6HK) 权威击倒+62帧！",
+    "description": "超新星猛虎派生 (214K > 6HK) 权威击倒+62帧！",
     "tags": [
       "+62f",
       "必杀技"
@@ -480,12 +480,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_od_greedy_tiger",
     "characterId": "sagat",
     "name": "OD Greedy Tiger KD",
-    "nameZh": "OD Greedy Tiger (214KK > 6MK) 击倒",
+    "nameZh": "OD贪食猛虎派生 (214KK > 6MK) 击倒",
     "input": "214KK > 6MK",
     "adv": 48,
     "type": "normal",
     "distance": "close",
-    "description": "OD Greedy Tiger (214KK > 6MK) 权威击倒+48帧！",
+    "description": "OD贪食猛虎派生 (214KK > 6MK) 权威击倒+48帧！",
     "tags": [
       "+48f",
       "必杀技"
@@ -495,12 +495,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_od_nova_tiger",
     "characterId": "sagat",
     "name": "OD Nova Tiger KD",
-    "nameZh": "OD Nova Tiger (214KK > 6HK) 击倒",
+    "nameZh": "OD超新星猛虎派生 (214KK > 6HK) 击倒",
     "input": "214KK > 6HK",
     "adv": 62,
     "type": "normal",
     "distance": "close",
-    "description": "OD Nova Tiger (214KK > 6HK) 权威击倒+62帧！",
+    "description": "OD超新星猛虎派生 (214KK > 6HK) 权威击倒+62帧！",
     "tags": [
       "+62f",
       "必杀技"
@@ -510,12 +510,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_tiger_cannon",
     "characterId": "sagat",
     "name": "Tiger Cannon KD",
-    "nameZh": "Tiger Cannon (236236P) 击倒",
+    "nameZh": "猛虎加农炮 (Lv.1 (SA1)) (236236P) 击倒",
     "input": "236236P",
     "adv": 22,
     "type": "super",
     "distance": "mid",
-    "description": "Tiger Cannon (236236P) 权威击倒+22帧！",
+    "description": "猛虎加农炮 (Lv.1 (SA1)) (236236P) 权威击倒+22帧！",
     "tags": [
       "+22f",
       "超必杀"
@@ -525,12 +525,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_savage_tiger",
     "characterId": "sagat",
     "name": "Savage Tiger KD",
-    "nameZh": "Savage Tiger (214214K) 击倒",
+    "nameZh": "野蛮猛虎 (Lv.2 (SA2)) (214214K) 击倒",
     "input": "214214K",
     "adv": 4,
     "type": "super",
     "distance": "mid",
-    "description": "Savage Tiger (214214K) 权威击倒+4帧！",
+    "description": "野蛮猛虎 (Lv.2 (SA2)) (214214K) 权威击倒+4帧！",
     "tags": [
       "+4f",
       "超必杀"
@@ -540,12 +540,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_savage_tiger_raid",
     "characterId": "sagat",
     "name": "Savage Tiger Raid KD",
-    "nameZh": "Savage Tiger Raid (214214K > 5) 击倒",
+    "nameZh": "野蛮猛虎·突击派生 (SA2) (214214K > 5) 击倒",
     "input": "214214K > 5",
     "adv": 4,
     "type": "super",
     "distance": "mid",
-    "description": "Savage Tiger Raid (214214K > 5) 权威击倒+4帧！",
+    "description": "野蛮猛虎·突击派生 (SA2) (214214K > 5) 权威击倒+4帧！",
     "tags": [
       "+4f",
       "超必杀"
@@ -555,12 +555,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_savage_tiger_zenith",
     "characterId": "sagat",
     "name": "Savage Tiger Zenith KD",
-    "nameZh": "Savage Tiger Zenith (214214K > 6) 击倒",
+    "nameZh": "野蛮猛虎·天顶落派生 (SA2) (214214K > 6) 击倒",
     "input": "214214K > 6",
     "adv": 53,
     "type": "super",
     "distance": "close",
-    "description": "Savage Tiger Zenith (214214K > 6) 权威击倒+53帧！",
+    "description": "野蛮猛虎·天顶落派生 (SA2) (214214K > 6) 权威击倒+53帧！",
     "tags": [
       "+53f",
       "超必杀"
@@ -570,12 +570,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_savage_tiger_pendulum",
     "characterId": "sagat",
     "name": "Savage Tiger Pendulum KD",
-    "nameZh": "Savage Tiger Pendulum (214214K > 4) 击倒",
+    "nameZh": "野蛮猛虎·摇摆派生 (SA2) (214214K > 4) 击倒",
     "input": "214214K > 4",
     "adv": 7,
     "type": "super",
     "distance": "mid",
-    "description": "Savage Tiger Pendulum (214214K > 4) 权威击倒+7帧！",
+    "description": "野蛮猛虎·摇摆派生 (SA2) (214214K > 4) 权威击倒+7帧！",
     "tags": [
       "+7f",
       "超必杀"
@@ -585,12 +585,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_savage_tiger_stomp",
     "characterId": "sagat",
     "name": "Savage Tiger Stomp KD",
-    "nameZh": "Savage Tiger Stomp (214214K > 2) 击倒",
+    "nameZh": "野蛮猛虎·踩踏派生 (SA2) (214214K > 2) 击倒",
     "input": "214214K > 2",
     "adv": 19,
     "type": "super",
     "distance": "mid",
-    "description": "Savage Tiger Stomp (214214K > 2) 权威击倒+19帧！",
+    "description": "野蛮猛虎·踩踏派生 (SA2) (214214K > 2) 权威击倒+19帧！",
     "tags": [
       "+19f",
       "超必杀"
@@ -600,12 +600,12 @@ export const sagatData: CharacterProfile = {
     "id": "kd_tiger_vanquisher",
     "characterId": "sagat",
     "name": "Tiger Vanquisher KD",
-    "nameZh": "Tiger Vanquisher (236236K) 击倒",
+    "nameZh": "猛虎征服者 (Lv.3 (SA3)) (236236K) 击倒",
     "input": "236236K",
     "adv": 15,
     "type": "super",
     "distance": "mid",
-    "description": "Tiger Vanquisher (236236K) 权威击倒+15帧！",
+    "description": "猛虎征服者 (Lv.3 (SA3)) (236236K) 权威击倒+15帧！",
     "tags": [
       "+15f",
       "超必杀"
@@ -631,7 +631,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "stand_lp",
     "name": "Stand LP",
-    "nameZh": "Stand LP",
+    "nameZh": "站轻拳",
     "input": "5LP",
     "category": "normal",
     "startup": 5,
@@ -648,7 +648,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "stand_mp",
     "name": "Stand MP",
-    "nameZh": "Stand MP",
+    "nameZh": "站中拳",
     "input": "5MP",
     "category": "normal",
     "startup": 6,
@@ -665,7 +665,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "stand_hp",
     "name": "Stand HP",
-    "nameZh": "Stand HP",
+    "nameZh": "站重拳",
     "input": "5HP",
     "category": "normal",
     "startup": 15,
@@ -683,7 +683,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "stand_lk",
     "name": "Stand LK",
-    "nameZh": "Stand LK",
+    "nameZh": "站轻脚",
     "input": "5LK",
     "category": "normal",
     "startup": 7,
@@ -701,7 +701,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "stand_mk",
     "name": "Stand MK",
-    "nameZh": "Stand MK",
+    "nameZh": "站中脚",
     "input": "5MK",
     "category": "normal",
     "startup": 11,
@@ -718,7 +718,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "stand_hk",
     "name": "Stand HK",
-    "nameZh": "Stand HK",
+    "nameZh": "站重脚",
     "input": "5HK",
     "category": "normal",
     "startup": 10,
@@ -736,7 +736,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "crouch_lp",
     "name": "Crouch LP",
-    "nameZh": "Crouch LP",
+    "nameZh": "下轻拳",
     "input": "2LP",
     "category": "normal",
     "startup": 4,
@@ -753,7 +753,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "crouch_mp",
     "name": "Crouch MP",
-    "nameZh": "Crouch MP",
+    "nameZh": "下中拳",
     "input": "2MP",
     "category": "normal",
     "startup": 7,
@@ -771,7 +771,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "crouch_hp",
     "name": "Crouch HP",
-    "nameZh": "Crouch HP",
+    "nameZh": "下重拳",
     "input": "2HP",
     "category": "normal",
     "startup": 11,
@@ -788,7 +788,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "crouch_lk",
     "name": "Crouch LK",
-    "nameZh": "Crouch LK",
+    "nameZh": "下轻脚",
     "input": "2LK",
     "category": "normal",
     "startup": 5,
@@ -805,7 +805,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "crouch_mk",
     "name": "Crouch MK",
-    "nameZh": "Crouch MK",
+    "nameZh": "下中脚",
     "input": "2MK",
     "category": "normal",
     "startup": 9,
@@ -822,7 +822,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "crouch_hk",
     "name": "Crouch HK",
-    "nameZh": "Crouch HK",
+    "nameZh": "下重脚",
     "input": "2HK",
     "category": "normal",
     "startup": 11,
@@ -838,7 +838,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "jump_lp",
     "name": "Jump LP",
-    "nameZh": "Jump LP",
+    "nameZh": "跳轻拳",
     "input": "8LP",
     "category": "normal",
     "startup": 4,
@@ -855,7 +855,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "jump_mp",
     "name": "Jump MP",
-    "nameZh": "Jump MP",
+    "nameZh": "跳中拳",
     "input": "8MP",
     "category": "normal",
     "startup": 8,
@@ -872,7 +872,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "jump_hp",
     "name": "Jump HP",
-    "nameZh": "Jump HP",
+    "nameZh": "跳重拳",
     "input": "8HP",
     "category": "normal",
     "startup": 10,
@@ -889,7 +889,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "jump_lk",
     "name": "Jump LK",
-    "nameZh": "Jump LK",
+    "nameZh": "跳轻脚",
     "input": "8LK",
     "category": "normal",
     "startup": 5,
@@ -906,7 +906,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "jump_mk",
     "name": "Jump MK",
-    "nameZh": "Jump MK",
+    "nameZh": "跳中脚",
     "input": "8MK",
     "category": "normal",
     "startup": 8,
@@ -923,7 +923,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "jump_hk",
     "name": "Jump HK",
-    "nameZh": "Jump HK",
+    "nameZh": "跳重脚",
     "input": "8HK",
     "category": "normal",
     "startup": 10,
@@ -940,7 +940,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "tiger_heavy_elbow",
     "name": "Tiger Heavy Elbow",
-    "nameZh": "Tiger Heavy Elbow",
+    "nameZh": "猛虎重肘",
     "input": "6MP",
     "category": "command_normal",
     "startup": 22,
@@ -957,7 +957,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "tiger_monolith",
     "name": "Tiger Monolith",
-    "nameZh": "Tiger Monolith",
+    "nameZh": "猛虎巨石踢",
     "input": "4HP",
     "category": "command_normal",
     "startup": 8,
@@ -973,7 +973,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "step_low_kick",
     "name": "Step Low Kick",
-    "nameZh": "Step Low Kick",
+    "nameZh": "垫步下踢",
     "input": "6LK",
     "category": "command_normal",
     "startup": 18,
@@ -991,7 +991,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "step_high_kick",
     "name": "Step High Kick",
-    "nameZh": "Step High Kick",
+    "nameZh": "垫步高踢",
     "input": "6HK",
     "category": "command_normal",
     "startup": 16,
@@ -1008,7 +1008,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "step_middle_kick",
     "name": "Step Middle Kick",
-    "nameZh": "Step Middle Kick",
+    "nameZh": "垫步中踢目标连段",
     "input": "5MK > HK",
     "category": "target_combo",
     "startup": 19,
@@ -1024,7 +1024,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "tiger_sting",
     "name": "Tiger Sting",
-    "nameZh": "Tiger Sting",
+    "nameZh": "猛虎毒刺目标连段",
     "input": "5HP > HK",
     "category": "target_combo",
     "startup": 16,
@@ -1040,7 +1040,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "tiger_slash",
     "name": "Tiger Slash",
-    "nameZh": "Tiger Slash",
+    "nameZh": "猛虎斩击目标连段",
     "input": "2MP > HP",
     "category": "target_combo",
     "startup": 20,
@@ -1057,7 +1057,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "tiger_rise",
     "name": "Tiger Rise",
-    "nameZh": "Tiger Rise",
+    "nameZh": "猛虎升腾目标连段",
     "input": "2MP > HK",
     "category": "target_combo",
     "startup": 18,
@@ -1073,7 +1073,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "tiger_hang",
     "name": "Tiger Hang",
-    "nameZh": "Tiger Hang",
+    "nameZh": "猛虎锁喉摔 (前投)",
     "input": "LPLK",
     "category": "throw",
     "startup": 5,
@@ -1089,7 +1089,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "tiger_carry",
     "name": "Tiger Carry",
-    "nameZh": "Tiger Carry",
+    "nameZh": "猛虎背摔 (后投)",
     "input": "4LPLK",
     "category": "throw",
     "startup": 5,
@@ -1105,7 +1105,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "drive_impact_tiger_punishment",
     "name": "Drive Impact: Tiger Punishment",
-    "nameZh": "Drive Impact: Tiger Punishment",
+    "nameZh": "驱动迸发·猛虎制裁",
     "input": "HPHK",
     "category": "system",
     "startup": 26,
@@ -1121,7 +1121,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "drive_reversal_tiger_twin_babel",
     "name": "Drive Reversal: Tiger Twin Babel",
-    "nameZh": "Drive Reversal: Tiger Twin Babel",
+    "nameZh": "驱动反击·猛虎双通天",
     "input": "6HPHK",
     "category": "system",
     "startup": 20,
@@ -1137,7 +1137,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "drive_parry",
     "name": "Drive Parry",
-    "nameZh": "Drive Parry",
+    "nameZh": "驱动化解 / 蓝防",
     "input": "MPMK",
     "category": "system",
     "startup": 1,
@@ -1154,7 +1154,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "drive_rush",
     "name": "Drive Rush",
-    "nameZh": "Drive Rush",
+    "nameZh": "驱动冲刺 / 绿冲",
     "input": "MPMK / 66 (cancel)",
     "category": "special",
     "startup": 9,
@@ -1171,7 +1171,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "taunt",
     "name": "Taunt",
-    "nameZh": "Taunt",
+    "nameZh": "挑衅",
     "input": "5PPPKKK",
     "category": "special",
     "startup": 0,
@@ -1187,7 +1187,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "lp_low_tiger_shot",
     "name": "LP Low Tiger Shot",
-    "nameZh": "LP Low Tiger Shot",
+    "nameZh": "轻猛虎低波",
     "input": "236LP",
     "category": "special",
     "startup": 14,
@@ -1204,7 +1204,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "od_low_tiger_shot",
     "name": "OD Low Tiger Shot",
-    "nameZh": "OD Low Tiger Shot",
+    "nameZh": "OD猛虎低波",
     "input": "236LPMP or LPHP",
     "category": "special",
     "startup": 12,
@@ -1220,7 +1220,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "mp_high_tiger_shot",
     "name": "MP High Tiger Shot",
-    "nameZh": "MP High Tiger Shot",
+    "nameZh": "中猛虎高波",
     "input": "236MP",
     "category": "special",
     "startup": 16,
@@ -1237,7 +1237,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "hp_high_tiger_shot",
     "name": "HP High Tiger Shot",
-    "nameZh": "HP High Tiger Shot",
+    "nameZh": "重猛虎高波",
     "input": "236HP",
     "category": "special",
     "startup": 12,
@@ -1254,7 +1254,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "od_high_tiger_shot",
     "name": "OD High Tiger Shot",
-    "nameZh": "OD High Tiger Shot",
+    "nameZh": "OD猛虎高波",
     "input": "236MPHP",
     "category": "special",
     "startup": 21,
@@ -1270,7 +1270,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "lp_tiger_uppercut",
     "name": "LP Tiger Uppercut",
-    "nameZh": "LP Tiger Uppercut",
+    "nameZh": "轻猛虎升龙拳",
     "input": "623LP",
     "category": "special",
     "startup": 5,
@@ -1286,7 +1286,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "mp_tiger_uppercut",
     "name": "MP Tiger Uppercut",
-    "nameZh": "MP Tiger Uppercut",
+    "nameZh": "中猛虎升龙拳",
     "input": "623MP",
     "category": "special",
     "startup": 10,
@@ -1302,7 +1302,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "hp_tiger_uppercut",
     "name": "HP Tiger Uppercut",
-    "nameZh": "HP Tiger Uppercut",
+    "nameZh": "重猛虎升龙拳",
     "input": "623HP",
     "category": "special",
     "startup": 18,
@@ -1318,7 +1318,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "hp_tiger_uppercut_hold_",
     "name": "HP Tiger Uppercut (hold)",
-    "nameZh": "HP Tiger Uppercut (hold)",
+    "nameZh": "蓄力重猛虎升龙拳",
     "input": "623HP (hold)",
     "category": "special",
     "startup": 35,
@@ -1334,7 +1334,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "od_tiger_uppercut",
     "name": "OD Tiger Uppercut",
-    "nameZh": "OD Tiger Uppercut",
+    "nameZh": "OD猛虎升龙拳",
     "input": "623PP",
     "category": "special",
     "startup": 8,
@@ -1350,7 +1350,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "lk_tiger_knee_crush",
     "name": "LK Tiger Knee Crush",
-    "nameZh": "LK Tiger Knee Crush",
+    "nameZh": "轻猛虎膝碎",
     "input": "236LK",
     "category": "special",
     "startup": 14,
@@ -1366,7 +1366,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "mk_tiger_knee_crush",
     "name": "MK Tiger Knee Crush",
-    "nameZh": "MK Tiger Knee Crush",
+    "nameZh": "中猛虎膝碎",
     "input": "236MK",
     "category": "special",
     "startup": 18,
@@ -1382,7 +1382,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "hk_tiger_knee_crush",
     "name": "HK Tiger Knee Crush",
-    "nameZh": "HK Tiger Knee Crush",
+    "nameZh": "重猛虎膝碎",
     "input": "236HK",
     "category": "special",
     "startup": 22,
@@ -1398,7 +1398,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "od_tiger_knee_crush",
     "name": "OD Tiger Knee Crush",
-    "nameZh": "OD Tiger Knee Crush",
+    "nameZh": "OD猛虎膝碎",
     "input": "236KK",
     "category": "special",
     "startup": 19,
@@ -1414,7 +1414,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "lk_tiger_nexus",
     "name": "LK Tiger Nexus",
-    "nameZh": "LK Tiger Nexus",
+    "nameZh": "轻猛虎羁绊架势",
     "input": "214LK",
     "category": "special",
     "startup": 17,
@@ -1430,7 +1430,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "mk_tiger_nexus",
     "name": "MK Tiger Nexus",
-    "nameZh": "MK Tiger Nexus",
+    "nameZh": "中猛虎羁绊架势",
     "input": "214MK",
     "category": "special",
     "startup": 20,
@@ -1446,7 +1446,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "hk_tiger_nexus",
     "name": "HK Tiger Nexus",
-    "nameZh": "HK Tiger Nexus",
+    "nameZh": "重猛虎羁绊架势",
     "input": "214HK",
     "category": "special",
     "startup": 28,
@@ -1464,7 +1464,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "mighty_tiger",
     "name": "Mighty Tiger",
-    "nameZh": "Mighty Tiger",
+    "nameZh": "猛虎威吓派生",
     "input": "214K > 6LK",
     "category": "target_combo",
     "startup": 15,
@@ -1480,7 +1480,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "greedy_tiger",
     "name": "Greedy Tiger",
-    "nameZh": "Greedy Tiger",
+    "nameZh": "贪食猛虎派生",
     "input": "214K > 6MK",
     "category": "target_combo",
     "startup": 17,
@@ -1497,7 +1497,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "nova_tiger",
     "name": "Nova Tiger",
-    "nameZh": "Nova Tiger",
+    "nameZh": "超新星猛虎派生",
     "input": "214K > 6HK",
     "category": "target_combo",
     "startup": 21,
@@ -1513,7 +1513,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "od_tiger_nexus",
     "name": "OD Tiger Nexus",
-    "nameZh": "OD Tiger Nexus",
+    "nameZh": "OD猛虎羁绊架势",
     "input": "214KK",
     "category": "special",
     "startup": 23,
@@ -1531,7 +1531,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "od_mighty_tiger",
     "name": "OD Mighty Tiger",
-    "nameZh": "OD Mighty Tiger",
+    "nameZh": "OD猛虎威吓派生",
     "input": "214KK > 6LK",
     "category": "target_combo",
     "startup": 15,
@@ -1547,7 +1547,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "od_greedy_tiger",
     "name": "OD Greedy Tiger",
-    "nameZh": "OD Greedy Tiger",
+    "nameZh": "OD贪食猛虎派生",
     "input": "214KK > 6MK",
     "category": "target_combo",
     "startup": 17,
@@ -1564,7 +1564,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "od_nova_tiger",
     "name": "OD Nova Tiger",
-    "nameZh": "OD Nova Tiger",
+    "nameZh": "OD超新星猛虎派生",
     "input": "214KK > 6HK",
     "category": "target_combo",
     "startup": 21,
@@ -1580,7 +1580,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "tiger_cannon",
     "name": "Tiger Cannon",
-    "nameZh": "Tiger Cannon",
+    "nameZh": "猛虎加农炮 (Lv.1 (SA1))",
     "input": "236236P",
     "category": "super",
     "startup": 13,
@@ -1596,7 +1596,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "savage_tiger",
     "name": "Savage Tiger",
-    "nameZh": "Savage Tiger",
+    "nameZh": "野蛮猛虎 (Lv.2 (SA2))",
     "input": "214214K",
     "category": "super",
     "startup": 10,
@@ -1612,7 +1612,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "savage_tiger_raid",
     "name": "Savage Tiger Raid",
-    "nameZh": "Savage Tiger Raid",
+    "nameZh": "野蛮猛虎·突击派生 (SA2)",
     "input": "214214K > 5",
     "category": "super",
     "startup": 10,
@@ -1628,7 +1628,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "savage_tiger_zenith",
     "name": "Savage Tiger Zenith",
-    "nameZh": "Savage Tiger Zenith",
+    "nameZh": "野蛮猛虎·天顶落派生 (SA2)",
     "input": "214214K > 6",
     "category": "super",
     "startup": 10,
@@ -1644,7 +1644,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "savage_tiger_pendulum",
     "name": "Savage Tiger Pendulum",
-    "nameZh": "Savage Tiger Pendulum",
+    "nameZh": "野蛮猛虎·摇摆派生 (SA2)",
     "input": "214214K > 4",
     "category": "super",
     "startup": 10,
@@ -1660,7 +1660,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "savage_tiger_stomp",
     "name": "Savage Tiger Stomp",
-    "nameZh": "Savage Tiger Stomp",
+    "nameZh": "野蛮猛虎·踩踏派生 (SA2)",
     "input": "214214K > 2",
     "category": "super",
     "startup": 10,
@@ -1676,7 +1676,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "tiger_vanquisher",
     "name": "Tiger Vanquisher",
-    "nameZh": "Tiger Vanquisher",
+    "nameZh": "猛虎征服者 (Lv.3 (SA3))",
     "input": "236236K",
     "category": "super",
     "startup": 12,
@@ -1692,7 +1692,7 @@ export const sagatData: CharacterProfile = {
   {
     "id": "tiger_vanquisher_critical_art_",
     "name": "Tiger Vanquisher (Critical Art)",
-    "nameZh": "Tiger Vanquisher (Critical Art)",
+    "nameZh": "猛虎征服者 (致命伤害 (CA))",
     "input": "236236K (CA)",
     "category": "super",
     "startup": 12,

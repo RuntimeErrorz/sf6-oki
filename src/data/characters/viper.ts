@@ -147,12 +147,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_crouch_hk",
     "characterId": "viper",
     "name": "Crouch HK KD",
-    "nameZh": "Crouch HK (2HK) 击倒",
+    "nameZh": "下重脚 (2HK) 击倒",
     "input": "2HK",
     "adv": 34,
     "type": "normal",
     "distance": "mid",
-    "description": "Crouch HK (2HK) 权威击倒+34帧！",
+    "description": "下重脚 (2HK) 权威击倒+34帧！",
     "tags": [
       "+34f",
       "必杀技"
@@ -178,12 +178,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_high_impulse",
     "characterId": "viper",
     "name": "High Impulse KD",
-    "nameZh": "High Impulse (LPLK) 击倒",
+    "nameZh": "高压冲脉 (前投) (LPLK) 击倒",
     "input": "LPLK",
     "adv": 28,
     "type": "throw",
     "distance": "close",
-    "description": "High Impulse (LPLK) 权威击倒+28帧！",
+    "description": "高压冲脉 (前投) (LPLK) 权威击倒+28帧！",
     "tags": [
       "+28f",
       "投技"
@@ -193,12 +193,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_thunder_cradle",
     "characterId": "viper",
     "name": "Thunder Cradle KD",
-    "nameZh": "Thunder Cradle (4LPLK) 击倒",
+    "nameZh": "雷霆摇篮 (后投) (4LPLK) 击倒",
     "input": "4LPLK",
     "adv": 19,
     "type": "throw",
     "distance": "close",
-    "description": "Thunder Cradle (4LPLK) 权威击倒+19帧！",
+    "description": "雷霆摇篮 (后投) (4LPLK) 权威击倒+19帧！",
     "tags": [
       "+19f",
       "投技"
@@ -208,12 +208,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_drive_reversal_counter_spark",
     "characterId": "viper",
     "name": "Drive Reversal: Counter Spark KD",
-    "nameZh": "Drive Reversal: Counter Spark (6HPHK) 击倒",
+    "nameZh": "驱动反击·反击火花 (6HPHK) 击倒",
     "input": "6HPHK",
     "adv": 23,
     "type": "normal",
     "distance": "mid",
-    "description": "Drive Reversal: Counter Spark (6HPHK) 权威击倒+23帧！",
+    "description": "驱动反击·反击火花 (6HPHK) 权威击倒+23帧！",
     "tags": [
       "+23f",
       "必杀技"
@@ -223,12 +223,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_hp_thunder_dash",
     "characterId": "viper",
     "name": "HP Thunder Dash KD",
-    "nameZh": "HP Thunder Dash (214HP) 击倒",
+    "nameZh": "重雷电冲刺 (214HP) 击倒",
     "input": "214HP",
     "adv": 21,
     "type": "normal",
     "distance": "mid",
-    "description": "HP Thunder Dash (214HP) 权威击倒+21帧！",
+    "description": "重雷电冲刺 (214HP) 权威击倒+21帧！",
     "tags": [
       "+21f",
       "必杀技"
@@ -238,12 +238,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_od_thunder_dash",
     "characterId": "viper",
     "name": "OD Thunder Dash KD",
-    "nameZh": "OD Thunder Dash (214PP) 击倒",
+    "nameZh": "OD雷电冲刺 (214PP) 击倒",
     "input": "214PP",
     "adv": 42,
     "type": "safejump",
     "distance": "close",
-    "description": "OD Thunder Dash (214PP) 权威击倒+42帧！",
+    "description": "OD雷电冲刺 (214PP) 权威击倒+42帧！",
     "tags": [
       "+42f",
       "必杀技"
@@ -253,12 +253,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_lp_tracer_combination",
     "characterId": "viper",
     "name": "LP Tracer Combination KD",
-    "nameZh": "LP Tracer Combination (214LP > 6PP) 击倒",
+    "nameZh": "轻追踪连击派生 (214LP > 6PP) 击倒",
     "input": "214LP > 6PP",
     "adv": 37,
     "type": "normal",
     "distance": "close",
-    "description": "LP Tracer Combination (214LP > 6PP) 权威击倒+37帧！",
+    "description": "轻追踪连击派生 (214LP > 6PP) 权威击倒+37帧！",
     "tags": [
       "+37f",
       "必杀技"
@@ -268,12 +268,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_mp_tracer_combination",
     "characterId": "viper",
     "name": "MP Tracer Combination KD",
-    "nameZh": "MP Tracer Combination (214MP > 6PP) 击倒",
+    "nameZh": "中追踪连击派生 (214MP > 6PP) 击倒",
     "input": "214MP > 6PP",
     "adv": 18,
     "type": "normal",
     "distance": "mid",
-    "description": "MP Tracer Combination (214MP > 6PP) 权威击倒+18帧！",
+    "description": "中追踪连击派生 (214MP > 6PP) 权威击倒+18帧！",
     "tags": [
       "+18f",
       "必杀技"
@@ -283,12 +283,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_hp_tracer_combination",
     "characterId": "viper",
     "name": "HP Tracer Combination KD",
-    "nameZh": "HP Tracer Combination (214HP > 6PP) 击倒",
+    "nameZh": "重追踪连击派生 (214HP > 6PP) 击倒",
     "input": "214HP > 6PP",
     "adv": 25,
     "type": "normal",
     "distance": "mid",
-    "description": "HP Tracer Combination (214HP > 6PP) 权威击倒+25帧！",
+    "description": "重追踪连击派生 (214HP > 6PP) 权威击倒+25帧！",
     "tags": [
       "+25f",
       "必杀技"
@@ -298,12 +298,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_lk_burning_kick",
     "characterId": "viper",
     "name": "LK Burning Kick KD",
-    "nameZh": "LK Burning Kick (236LK) 击倒",
+    "nameZh": "轻燃烧踢 (236LK) 击倒",
     "input": "236LK",
     "adv": 38,
     "type": "normal",
     "distance": "close",
-    "description": "LK Burning Kick (236LK) 权威击倒+38帧！",
+    "description": "轻燃烧踢 (236LK) 权威击倒+38帧！",
     "tags": [
       "+38f",
       "必杀技"
@@ -313,12 +313,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_mk_burning_kick",
     "characterId": "viper",
     "name": "MK Burning Kick KD",
-    "nameZh": "MK Burning Kick (236MK) 击倒",
+    "nameZh": "中燃烧踢 (236MK) 击倒",
     "input": "236MK",
     "adv": 38,
     "type": "normal",
     "distance": "close",
-    "description": "MK Burning Kick (236MK) 权威击倒+38帧！",
+    "description": "中燃烧踢 (236MK) 权威击倒+38帧！",
     "tags": [
       "+38f",
       "必杀技"
@@ -328,12 +328,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_hk_burning_kick",
     "characterId": "viper",
     "name": "HK Burning Kick KD",
-    "nameZh": "HK Burning Kick (236HK) 击倒",
+    "nameZh": "重燃烧踢 (236HK) 击倒",
     "input": "236HK",
     "adv": 38,
     "type": "normal",
     "distance": "close",
-    "description": "HK Burning Kick (236HK) 权威击倒+38帧！",
+    "description": "重燃烧踢 (236HK) 权威击倒+38帧！",
     "tags": [
       "+38f",
       "必杀技"
@@ -343,12 +343,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_od_burning_kick",
     "characterId": "viper",
     "name": "OD Burning Kick KD",
-    "nameZh": "OD Burning Kick (236KK) 击倒",
+    "nameZh": "OD燃烧踢 (236KK) 击倒",
     "input": "236KK",
     "adv": 43,
     "type": "normal",
     "distance": "close",
-    "description": "OD Burning Kick (236KK) 权威击倒+43帧！",
+    "description": "OD燃烧踢 (236KK) 权威击倒+43帧！",
     "tags": [
       "+43f",
       "必杀技"
@@ -358,12 +358,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_knuckled_pursuit",
     "characterId": "viper",
     "name": "Knuckled Pursuit KD",
-    "nameZh": "Knuckled Pursuit (236K > PP) 击倒",
+    "nameZh": "指关节追打派生 (236K > PP) 击倒",
     "input": "236K > PP",
     "adv": 23,
     "type": "normal",
     "distance": "mid",
-    "description": "Knuckled Pursuit (236K > PP) 权威击倒+23帧！",
+    "description": "指关节追打派生 (236K > PP) 权威击倒+23帧！",
     "tags": [
       "+23f",
       "必杀技"
@@ -373,12 +373,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_double_burn",
     "characterId": "viper",
     "name": "Double Burn KD",
-    "nameZh": "Double Burn (236K > KK) 击倒",
+    "nameZh": "双重燃烧派生 (236K > KK) 击倒",
     "input": "236K > KK",
     "adv": 34,
     "type": "normal",
     "distance": "mid",
-    "description": "Double Burn (236K > KK) 权威击倒+34帧！",
+    "description": "双重燃烧派生 (236K > KK) 权威击倒+34帧！",
     "tags": [
       "+34f",
       "必杀技"
@@ -448,12 +448,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_seismic_hammer",
     "characterId": "viper",
     "name": "Seismic Hammer KD",
-    "nameZh": "Seismic Hammer (623P) 击倒",
+    "nameZh": "震地重锤 (623P) 击倒",
     "input": "623P",
     "adv": 53,
     "type": "normal",
     "distance": "close",
-    "description": "Seismic Hammer (623P) 权威击倒+53帧！",
+    "description": "震地重锤 (623P) 权威击倒+53帧！",
     "tags": [
       "+53f",
       "必杀技"
@@ -463,12 +463,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_od_seismic_hammer",
     "characterId": "viper",
     "name": "OD Seismic Hammer KD",
-    "nameZh": "OD Seismic Hammer (623PP) 击倒",
+    "nameZh": "OD震地重锤 (623PP) 击倒",
     "input": "623PP",
     "adv": 53,
     "type": "normal",
     "distance": "close",
-    "description": "OD Seismic Hammer (623PP) 权威击倒+53帧！",
+    "description": "OD震地重锤 (623PP) 权威击倒+53帧！",
     "tags": [
       "+53f",
       "必杀技"
@@ -538,12 +538,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_limit_decoupler",
     "characterId": "viper",
     "name": "Limit Decoupler KD",
-    "nameZh": "Limit Decoupler (236236K) 击倒",
+    "nameZh": "解限爆发 (Lv.1 (SA1)) (236236K) 击倒",
     "input": "236236K",
     "adv": 21,
     "type": "super",
     "distance": "mid",
-    "description": "Limit Decoupler (236236K) 权威击倒+21帧！",
+    "description": "解限爆发 (Lv.1 (SA1)) (236236K) 权威击倒+21帧！",
     "tags": [
       "+21f",
       "超必杀"
@@ -553,12 +553,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_mission_complete",
     "characterId": "viper",
     "name": "Mission Complete KD",
-    "nameZh": "Mission Complete (214214P) 击倒",
+    "nameZh": "任务达成 (Lv.2 (SA2)) (214214P) 击倒",
     "input": "214214P",
     "adv": 19,
     "type": "super",
     "distance": "mid",
-    "description": "Mission Complete (214214P) 权威击倒+19帧！",
+    "description": "任务达成 (Lv.2 (SA2)) (214214P) 权威击倒+19帧！",
     "tags": [
       "+19f",
       "超必杀"
@@ -568,12 +568,12 @@ export const viperData: CharacterProfile = {
     "id": "kd_hard_luck_rejector",
     "characterId": "viper",
     "name": "Hard Luck Rejector KD",
-    "nameZh": "Hard Luck Rejector (214214K) 击倒",
+    "nameZh": "厄运排斥者 (Lv.3 (SA3)) (214214K) 击倒",
     "input": "214214K",
     "adv": 21,
     "type": "super",
     "distance": "mid",
-    "description": "Hard Luck Rejector (214214K) 权威击倒+21帧！",
+    "description": "厄运排斥者 (Lv.3 (SA3)) (214214K) 权威击倒+21帧！",
     "tags": [
       "+21f",
       "超必杀"
@@ -599,7 +599,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "stand_lp",
     "name": "Stand LP",
-    "nameZh": "Stand LP",
+    "nameZh": "站轻拳",
     "input": "5LP",
     "category": "normal",
     "startup": 4,
@@ -616,7 +616,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "stand_mp",
     "name": "Stand MP",
-    "nameZh": "Stand MP",
+    "nameZh": "站中拳",
     "input": "5MP",
     "category": "normal",
     "startup": 8,
@@ -633,7 +633,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "stand_hp",
     "name": "Stand HP",
-    "nameZh": "Stand HP",
+    "nameZh": "站重拳",
     "input": "5HP",
     "category": "normal",
     "startup": 12,
@@ -650,7 +650,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "stand_lk",
     "name": "Stand LK",
-    "nameZh": "Stand LK",
+    "nameZh": "站轻脚",
     "input": "5LK",
     "category": "normal",
     "startup": 5,
@@ -667,7 +667,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "stand_mk",
     "name": "Stand MK",
-    "nameZh": "Stand MK",
+    "nameZh": "站中脚",
     "input": "5MK",
     "category": "normal",
     "startup": 8,
@@ -685,7 +685,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "stand_hk",
     "name": "Stand HK",
-    "nameZh": "Stand HK",
+    "nameZh": "站重脚",
     "input": "5HK",
     "category": "normal",
     "startup": 10,
@@ -702,7 +702,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "crouch_lp",
     "name": "Crouch LP",
-    "nameZh": "Crouch LP",
+    "nameZh": "下轻拳",
     "input": "2LP",
     "category": "normal",
     "startup": 4,
@@ -719,7 +719,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "crouch_mp",
     "name": "Crouch MP",
-    "nameZh": "Crouch MP",
+    "nameZh": "下中拳",
     "input": "2MP",
     "category": "normal",
     "startup": 6,
@@ -736,7 +736,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "crouch_hp",
     "name": "Crouch HP",
-    "nameZh": "Crouch HP",
+    "nameZh": "下重拳",
     "input": "2HP",
     "category": "normal",
     "startup": 9,
@@ -753,7 +753,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "crouch_lk",
     "name": "Crouch LK",
-    "nameZh": "Crouch LK",
+    "nameZh": "下轻脚",
     "input": "2LK",
     "category": "normal",
     "startup": 5,
@@ -770,7 +770,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "crouch_mk",
     "name": "Crouch MK",
-    "nameZh": "Crouch MK",
+    "nameZh": "下中脚",
     "input": "2MK",
     "category": "normal",
     "startup": 8,
@@ -787,7 +787,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "crouch_hk",
     "name": "Crouch HK",
-    "nameZh": "Crouch HK",
+    "nameZh": "下重脚",
     "input": "2HK",
     "category": "normal",
     "startup": 10,
@@ -804,7 +804,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "jump_lp",
     "name": "Jump LP",
-    "nameZh": "Jump LP",
+    "nameZh": "跳轻拳",
     "input": "8LP",
     "category": "normal",
     "startup": 5,
@@ -821,7 +821,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "jump_mp",
     "name": "Jump MP",
-    "nameZh": "Jump MP",
+    "nameZh": "跳中拳",
     "input": "8MP",
     "category": "normal",
     "startup": 8,
@@ -838,7 +838,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "jump_hp",
     "name": "Jump HP",
-    "nameZh": "Jump HP",
+    "nameZh": "跳重拳",
     "input": "8HP",
     "category": "normal",
     "startup": 11,
@@ -855,7 +855,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "jump_lk",
     "name": "Jump LK",
-    "nameZh": "Jump LK",
+    "nameZh": "跳轻脚",
     "input": "8LK",
     "category": "normal",
     "startup": 5,
@@ -872,7 +872,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "jump_mk",
     "name": "Jump MK",
-    "nameZh": "Jump MK",
+    "nameZh": "跳中脚",
     "input": "8MK",
     "category": "normal",
     "startup": 7,
@@ -889,7 +889,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "jump_hk",
     "name": "Jump HK",
-    "nameZh": "Jump HK",
+    "nameZh": "跳重脚",
     "input": "7 or 9HK",
     "category": "normal",
     "startup": 8,
@@ -906,7 +906,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "neutral_jump_hk",
     "name": "Neutral Jump HK",
-    "nameZh": "Neutral Jump HK",
+    "nameZh": "原地跳重脚",
     "input": "8HK",
     "category": "normal",
     "startup": 10,
@@ -923,7 +923,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "viper_elbow",
     "name": "Viper Elbow",
-    "nameZh": "Viper Elbow",
+    "nameZh": "毒蛇重肘",
     "input": "6MP",
     "category": "command_normal",
     "startup": 22,
@@ -940,7 +940,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "double_kick",
     "name": "Double Kick",
-    "nameZh": "Double Kick",
+    "nameZh": "双重踢击",
     "input": "6HK",
     "category": "command_normal",
     "startup": 11,
@@ -957,7 +957,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "high_impulse",
     "name": "High Impulse",
-    "nameZh": "High Impulse",
+    "nameZh": "高压冲脉 (前投)",
     "input": "LPLK",
     "category": "throw",
     "startup": 5,
@@ -973,7 +973,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "thunder_cradle",
     "name": "Thunder Cradle",
-    "nameZh": "Thunder Cradle",
+    "nameZh": "雷霆摇篮 (后投)",
     "input": "4LPLK",
     "category": "throw",
     "startup": 5,
@@ -989,7 +989,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "drive_impact_viper_cannon",
     "name": "Drive Impact: Viper Cannon",
-    "nameZh": "Drive Impact: Viper Cannon",
+    "nameZh": "驱动迸发·毒蛇重炮",
     "input": "HPHK",
     "category": "system",
     "startup": 26,
@@ -1005,7 +1005,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "drive_reversal_counter_spark",
     "name": "Drive Reversal: Counter Spark",
-    "nameZh": "Drive Reversal: Counter Spark",
+    "nameZh": "驱动反击·反击火花",
     "input": "6HPHK",
     "category": "system",
     "startup": 20,
@@ -1021,7 +1021,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "drive_parry",
     "name": "Drive Parry",
-    "nameZh": "Drive Parry",
+    "nameZh": "驱动化解 / 蓝防",
     "input": "MPMK",
     "category": "system",
     "startup": 1,
@@ -1038,7 +1038,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "drive_rush",
     "name": "Drive Rush",
-    "nameZh": "Drive Rush",
+    "nameZh": "驱动冲刺 / 绿冲",
     "input": "MPMK / 66 (cancel)",
     "category": "special",
     "startup": 9,
@@ -1055,7 +1055,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "taunt",
     "name": "Taunt",
-    "nameZh": "Taunt",
+    "nameZh": "挑衅",
     "input": "5PPPKKK",
     "category": "special",
     "startup": 0,
@@ -1071,7 +1071,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "lp_thunder_dash",
     "name": "LP Thunder Dash",
-    "nameZh": "LP Thunder Dash",
+    "nameZh": "轻雷电冲刺",
     "input": "214LP",
     "category": "special",
     "startup": 17,
@@ -1088,7 +1088,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "mp_thunder_dash",
     "name": "MP Thunder Dash",
-    "nameZh": "MP Thunder Dash",
+    "nameZh": "中雷电冲刺",
     "input": "214MP",
     "category": "special",
     "startup": 16,
@@ -1105,7 +1105,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "hp_thunder_dash",
     "name": "HP Thunder Dash",
-    "nameZh": "HP Thunder Dash",
+    "nameZh": "重雷电冲刺",
     "input": "214HP",
     "category": "special",
     "startup": 7,
@@ -1121,7 +1121,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "od_thunder_dash",
     "name": "OD Thunder Dash",
-    "nameZh": "OD Thunder Dash",
+    "nameZh": "OD雷电冲刺",
     "input": "214PP",
     "category": "special",
     "startup": 18,
@@ -1137,7 +1137,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "lp_tracer_combination",
     "name": "LP Tracer Combination",
-    "nameZh": "LP Tracer Combination",
+    "nameZh": "轻追踪连击派生",
     "input": "214LP > 6PP",
     "category": "target_combo",
     "startup": 15,
@@ -1153,7 +1153,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "mp_tracer_combination",
     "name": "MP Tracer Combination",
-    "nameZh": "MP Tracer Combination",
+    "nameZh": "中追踪连击派生",
     "input": "214MP > 6PP",
     "category": "target_combo",
     "startup": 21,
@@ -1169,7 +1169,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "hp_tracer_combination",
     "name": "HP Tracer Combination",
-    "nameZh": "HP Tracer Combination",
+    "nameZh": "重追踪连击派生",
     "input": "214HP > 6PP",
     "category": "target_combo",
     "startup": 17,
@@ -1185,7 +1185,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "lk_burning_kick",
     "name": "LK Burning Kick",
-    "nameZh": "LK Burning Kick",
+    "nameZh": "轻燃烧踢",
     "input": "236LK",
     "category": "special",
     "startup": 23,
@@ -1201,7 +1201,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "mk_burning_kick",
     "name": "MK Burning Kick",
-    "nameZh": "MK Burning Kick",
+    "nameZh": "中燃烧踢",
     "input": "236MK",
     "category": "special",
     "startup": 25,
@@ -1217,7 +1217,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "hk_burning_kick",
     "name": "HK Burning Kick",
-    "nameZh": "HK Burning Kick",
+    "nameZh": "重燃烧踢",
     "input": "236HK",
     "category": "special",
     "startup": 27,
@@ -1233,7 +1233,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "od_burning_kick",
     "name": "OD Burning Kick",
-    "nameZh": "OD Burning Kick",
+    "nameZh": "OD燃烧踢",
     "input": "236KK",
     "category": "special",
     "startup": 8,
@@ -1249,7 +1249,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "knuckled_pursuit",
     "name": "Knuckled Pursuit",
-    "nameZh": "Knuckled Pursuit",
+    "nameZh": "指关节追打派生",
     "input": "236K > PP",
     "category": "target_combo",
     "startup": 12,
@@ -1265,7 +1265,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "double_burn",
     "name": "Double Burn",
-    "nameZh": "Double Burn",
+    "nameZh": "双重燃烧派生",
     "input": "236K > KK",
     "category": "target_combo",
     "startup": 21,
@@ -1281,7 +1281,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "lk_burning_kick_air_",
     "name": "LK Burning Kick (air)",
-    "nameZh": "LK Burning Kick (air)",
+    "nameZh": "空中轻燃烧踢",
     "input": "236LK (air)",
     "category": "special",
     "startup": 22,
@@ -1298,7 +1298,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "mk_burning_kick_air_",
     "name": "MK Burning Kick (air)",
-    "nameZh": "MK Burning Kick (air)",
+    "nameZh": "空中中燃烧踢",
     "input": "236MK (air)",
     "category": "special",
     "startup": 20,
@@ -1315,7 +1315,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "hk_burning_kick_air_",
     "name": "HK Burning Kick (air)",
-    "nameZh": "HK Burning Kick (air)",
+    "nameZh": "空中重燃烧踢",
     "input": "236HK (air)",
     "category": "special",
     "startup": 18,
@@ -1332,7 +1332,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "od_burning_kick_air_",
     "name": "OD Burning Kick (air)",
-    "nameZh": "OD Burning Kick (air)",
+    "nameZh": "空中OD燃烧踢",
     "input": "236KK (air)",
     "category": "special",
     "startup": 18,
@@ -1349,7 +1349,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "seismic_hammer",
     "name": "Seismic Hammer",
-    "nameZh": "Seismic Hammer",
+    "nameZh": "震地重锤",
     "input": "623P",
     "category": "special",
     "startup": 24,
@@ -1365,7 +1365,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "od_seismic_hammer",
     "name": "OD Seismic Hammer",
-    "nameZh": "OD Seismic Hammer",
+    "nameZh": "OD震地重锤",
     "input": "623PP",
     "category": "special",
     "startup": 19,
@@ -1381,7 +1381,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "focus_force_lvl_1_",
     "name": "Focus Force (lvl 1)",
-    "nameZh": "Focus Force (lvl 1)",
+    "nameZh": "蓄力猛击 (Lv.1)",
     "input": "214K (lvl 1)",
     "category": "special",
     "startup": 23,
@@ -1397,7 +1397,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "focus_force_lvl_2_",
     "name": "Focus Force (lvl 2)",
-    "nameZh": "Focus Force (lvl 2)",
+    "nameZh": "蓄力猛击 (Lv.2 破招软倒)",
     "input": "214K (lvl 2)",
     "category": "special",
     "startup": 30,
@@ -1413,7 +1413,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "focus_force_lvl_3_",
     "name": "Focus Force (lvl 3)",
-    "nameZh": "Focus Force (lvl 3)",
+    "nameZh": "蓄力猛击 (Lv.3 防御不能)",
     "input": "214K (lvl 3)",
     "category": "special",
     "startup": 69,
@@ -1429,7 +1429,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "od_focus_force_lvl_1_",
     "name": "OD Focus Force (lvl 1)",
-    "nameZh": "OD Focus Force (lvl 1)",
+    "nameZh": "OD蓄力猛击 (Lv.1)",
     "input": "214KK (lvl 1)",
     "category": "special",
     "startup": 20,
@@ -1445,7 +1445,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "od_focus_force_lvl_2_",
     "name": "OD Focus Force (lvl 2)",
-    "nameZh": "OD Focus Force (lvl 2)",
+    "nameZh": "OD蓄力猛击 (Lv.2)",
     "input": "214KK (lvl 2)",
     "category": "special",
     "startup": 30,
@@ -1461,7 +1461,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "od_focus_force_lvl_3_",
     "name": "OD Focus Force (lvl 3)",
-    "nameZh": "OD Focus Force (lvl 3)",
+    "nameZh": "OD蓄力猛击 (Lv.3)",
     "input": "214KK (lvl 3)",
     "category": "special",
     "startup": 67,
@@ -1477,7 +1477,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "feint",
     "name": "Feint",
-    "nameZh": "Feint",
+    "nameZh": "假动作取消",
     "input": "5K",
     "category": "command_normal",
     "startup": 0,
@@ -1494,7 +1494,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "high_jump",
     "name": "High Jump",
-    "nameZh": "High Jump",
+    "nameZh": "超级高跳",
     "input": "1/2/3 > 8/9",
     "category": "normal",
     "startup": 6,
@@ -1510,7 +1510,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "limit_decoupler",
     "name": "Limit Decoupler",
-    "nameZh": "Limit Decoupler",
+    "nameZh": "解限爆发 (Lv.1 (SA1))",
     "input": "236236K",
     "category": "super",
     "startup": 8,
@@ -1526,7 +1526,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "mission_complete",
     "name": "Mission Complete",
-    "nameZh": "Mission Complete",
+    "nameZh": "任务达成 (Lv.2 (SA2))",
     "input": "214214P",
     "category": "super",
     "startup": 7,
@@ -1542,7 +1542,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "hard_luck_rejector",
     "name": "Hard Luck Rejector",
-    "nameZh": "Hard Luck Rejector",
+    "nameZh": "厄运排斥者 (Lv.3 (SA3))",
     "input": "214214K",
     "category": "super",
     "startup": 10,
@@ -1558,7 +1558,7 @@ export const viperData: CharacterProfile = {
   {
     "id": "hard_luck_rejector_critical_art_",
     "name": "Hard Luck Rejector (Critical Art)",
-    "nameZh": "Hard Luck Rejector (Critical Art)",
+    "nameZh": "厄运排斥者 (致命伤害 (CA))",
     "input": "214214K (CA)",
     "category": "super",
     "startup": 10,

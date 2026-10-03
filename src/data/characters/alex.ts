@@ -164,12 +164,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_crouch_hk",
     "characterId": "alex",
     "name": "Crouch HK KD",
-    "nameZh": "Crouch HK (2HK) 击倒",
+    "nameZh": "下重脚 (2HK) 击倒",
     "input": "2HK",
     "adv": 29,
     "type": "normal",
     "distance": "mid",
-    "description": "Crouch HK (2HK) 权威击倒+29帧！",
+    "description": "下重脚 (2HK) 权威击倒+29帧！",
     "tags": [
       "+29f",
       "必杀技"
@@ -195,12 +195,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_palm_strikes",
     "characterId": "alex",
     "name": "Palm Strikes KD",
-    "nameZh": "Palm Strikes (5MP > 5HP) 击倒",
+    "nameZh": "掌击目标连段 (5MP > 5HP) 击倒",
     "input": "5MP > 5HP",
     "adv": 21,
     "type": "normal",
     "distance": "mid",
-    "description": "Palm Strikes (5MP > 5HP) 权威击倒+21帧！",
+    "description": "掌击目标连段 (5MP > 5HP) 权威击倒+21帧！",
     "tags": [
       "+21f",
       "必杀技"
@@ -210,12 +210,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_twisted_drop",
     "characterId": "alex",
     "name": "Twisted Drop KD",
-    "nameZh": "Twisted Drop (2LK > 2HK) 击倒",
+    "nameZh": "扭摔目标连段 (2LK > 2HK) 击倒",
     "input": "2LK > 2HK",
     "adv": 20,
     "type": "normal",
     "distance": "mid",
-    "description": "Twisted Drop (2LK > 2HK) 权威击倒+20帧！",
+    "description": "扭摔目标连段 (2LK > 2HK) 权威击倒+20帧！",
     "tags": [
       "+20f",
       "必杀技"
@@ -225,12 +225,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_shoulder_launcher",
     "characterId": "alex",
     "name": "Shoulder Launcher KD",
-    "nameZh": "Shoulder Launcher (2PP > 5MP) 击倒",
+    "nameZh": "潜行铁肩冲天击 (2PP > 5MP) 击倒",
     "input": "2PP > 5MP",
     "adv": 51,
     "type": "normal",
     "distance": "close",
-    "description": "Shoulder Launcher (2PP > 5MP) 权威击倒+51帧！",
+    "description": "潜行铁肩冲天击 (2PP > 5MP) 权威击倒+51帧！",
     "tags": [
       "+51f",
       "必杀技"
@@ -240,12 +240,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_air_stampede",
     "characterId": "alex",
     "name": "Air Stampede KD",
-    "nameZh": "Air Stampede (2PP > 5MK) 击倒",
+    "nameZh": "潜行空中践踏 (2PP > 5MK) 击倒",
     "input": "2PP > 5MK",
     "adv": 28,
     "type": "normal",
     "distance": "mid",
-    "description": "Air Stampede (2PP > 5MK) 权威击倒+28帧！",
+    "description": "潜行空中践踏 (2PP > 5MK) 权威击倒+28帧！",
     "tags": [
       "+28f",
       "必杀技"
@@ -255,12 +255,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_sweep_combination_1",
     "characterId": "alex",
     "name": "Sweep Combination 1 KD",
-    "nameZh": "Sweep Combination 1 (2PP > 5HK) 击倒",
+    "nameZh": "潜行扫堂踢组合1 (2PP > 5HK) 击倒",
     "input": "2PP > 5HK",
     "adv": 29,
     "type": "normal",
     "distance": "mid",
-    "description": "Sweep Combination 1 (2PP > 5HK) 权威击倒+29帧！",
+    "description": "潜行扫堂踢组合1 (2PP > 5HK) 权威击倒+29帧！",
     "tags": [
       "+29f",
       "必杀技"
@@ -270,12 +270,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_sweep_combination_2",
     "characterId": "alex",
     "name": "Sweep Combination 2 KD",
-    "nameZh": "Sweep Combination 2 (2PP > 5HK > 5HK) 击倒",
+    "nameZh": "潜行扫堂踢组合2 (2PP > 5HK > 5HK) 击倒",
     "input": "2PP > 5HK > 5HK",
     "adv": 25,
     "type": "normal",
     "distance": "mid",
-    "description": "Sweep Combination 2 (2PP > 5HK > 5HK) 权威击倒+25帧！",
+    "description": "潜行扫堂踢组合2 (2PP > 5HK > 5HK) 权威击倒+25帧！",
     "tags": [
       "+25f",
       "必杀技"
@@ -285,12 +285,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_hyper_takedown",
     "characterId": "alex",
     "name": "Hyper Takedown KD",
-    "nameZh": "Hyper Takedown (2PP > 5LPLK) 击倒",
+    "nameZh": "潜行超强抱摔 (2PP > 5LPLK) 击倒",
     "input": "2PP > 5LPLK",
     "adv": 32,
     "type": "throw",
     "distance": "close",
-    "description": "Hyper Takedown (2PP > 5LPLK) 权威击倒+32帧！",
+    "description": "潜行超强抱摔 (2PP > 5LPLK) 权威击倒+32帧！",
     "tags": [
       "+32f",
       "投技"
@@ -300,12 +300,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_dangerous_armbar",
     "characterId": "alex",
     "name": "Dangerous Armbar KD",
-    "nameZh": "Dangerous Armbar (2PP > 2LPLK) 击倒",
+    "nameZh": "潜行危险十字固 (2PP > 2LPLK) 击倒",
     "input": "2PP > 2LPLK",
     "adv": 21,
     "type": "throw",
     "distance": "close",
-    "description": "Dangerous Armbar (2PP > 2LPLK) 权威击倒+21帧！",
+    "description": "潜行危险十字固 (2PP > 2LPLK) 权威击倒+21帧！",
     "tags": [
       "+21f",
       "投技"
@@ -315,12 +315,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_arm_lock",
     "characterId": "alex",
     "name": "Arm Lock KD",
-    "nameZh": "Arm Lock (5LPLK) 击倒",
+    "nameZh": "近身手臂锁摔 (前投) (5LPLK) 击倒",
     "input": "5LPLK",
     "adv": 28,
     "type": "throw",
     "distance": "close",
-    "description": "Arm Lock (5LPLK) 权威击倒+28帧！",
+    "description": "近身手臂锁摔 (前投) (5LPLK) 权威击倒+28帧！",
     "tags": [
       "+28f",
       "投技"
@@ -330,12 +330,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_guillotine_hammer",
     "characterId": "alex",
     "name": "Guillotine Hammer KD",
-    "nameZh": "Guillotine Hammer (4LPLK) 击倒",
+    "nameZh": "断头台重扣 (后投) (4LPLK) 击倒",
     "input": "4LPLK",
     "adv": 16,
     "type": "throw",
     "distance": "close",
-    "description": "Guillotine Hammer (4LPLK) 权威击倒+16帧！",
+    "description": "断头台重扣 (后投) (4LPLK) 权威击倒+16帧！",
     "tags": [
       "+16f",
       "投技"
@@ -345,12 +345,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_illegal_knees",
     "characterId": "alex",
     "name": "Illegal Knees KD",
-    "nameZh": "Illegal Knees (2LPLK) 击倒",
+    "nameZh": "违规膝击摔 (2LPLK) 击倒",
     "input": "2LPLK",
     "adv": 22,
     "type": "throw",
     "distance": "close",
-    "description": "Illegal Knees (2LPLK) 权威击倒+22帧！",
+    "description": "违规膝击摔 (2LPLK) 权威击倒+22帧！",
     "tags": [
       "+22f",
       "投技"
@@ -360,12 +360,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_drive_reversal_headbutt",
     "characterId": "alex",
     "name": "Drive Reversal: Headbutt KD",
-    "nameZh": "Drive Reversal: Headbutt (6HPHK) 击倒",
+    "nameZh": "驱动反击·铁头槌 (6HPHK) 击倒",
     "input": "6HPHK",
     "adv": 23,
     "type": "normal",
     "distance": "mid",
-    "description": "Drive Reversal: Headbutt (6HPHK) 权威击倒+23帧！",
+    "description": "驱动反击·铁头槌 (6HPHK) 权威击倒+23帧！",
     "tags": [
       "+23f",
       "必杀技"
@@ -375,12 +375,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_mp_flash_axe",
     "characterId": "alex",
     "name": "MP Flash Axe KD",
-    "nameZh": "MP Flash Axe (236MP) 击倒",
+    "nameZh": "中闪光战斧手刀 (236MP) 击倒",
     "input": "236MP",
     "adv": 39,
     "type": "normal",
     "distance": "close",
-    "description": "MP Flash Axe (236MP) 权威击倒+39帧！",
+    "description": "中闪光战斧手刀 (236MP) 权威击倒+39帧！",
     "tags": [
       "+39f",
       "必杀技"
@@ -390,12 +390,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_od_flash_chop",
     "characterId": "alex",
     "name": "OD Flash Chop KD",
-    "nameZh": "OD Flash Chop (236PP) 击倒",
+    "nameZh": "OD闪光手刀背摔 (236PP) 击倒",
     "input": "236PP",
     "adv": 41,
     "type": "normal",
     "distance": "close",
-    "description": "OD Flash Chop (236PP) 权威击倒+41帧！",
+    "description": "OD闪光手刀背摔 (236PP) 权威击倒+41帧！",
     "tags": [
       "+41f",
       "必杀技"
@@ -405,12 +405,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_lk_aerial_knee_smash",
     "characterId": "alex",
     "name": "LK Aerial Knee Smash KD",
-    "nameZh": "LK Aerial Knee Smash (623LK) 击倒",
+    "nameZh": "轻空中拦截膝碎 (623LK) 击倒",
     "input": "623LK",
     "adv": 29,
     "type": "normal",
     "distance": "mid",
-    "description": "LK Aerial Knee Smash (623LK) 权威击倒+29帧！",
+    "description": "轻空中拦截膝碎 (623LK) 权威击倒+29帧！",
     "tags": [
       "+29f",
       "必杀技"
@@ -420,12 +420,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_mk_aerial_knee_smash",
     "characterId": "alex",
     "name": "MK Aerial Knee Smash KD",
-    "nameZh": "MK Aerial Knee Smash (623MK) 击倒",
+    "nameZh": "空中拦截膝碎 (中) (623MK) 击倒",
     "input": "623MK",
     "adv": 29,
     "type": "normal",
     "distance": "mid",
-    "description": "MK Aerial Knee Smash (623MK) 权威击倒+29帧！",
+    "description": "空中拦截膝碎 (中) (623MK) 权威击倒+29帧！",
     "tags": [
       "+29f",
       "必杀技"
@@ -435,12 +435,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_hk_aerial_knee_smash",
     "characterId": "alex",
     "name": "HK Aerial Knee Smash KD",
-    "nameZh": "HK Aerial Knee Smash (623HK) 击倒",
+    "nameZh": "空中拦截膝碎 (重) (623HK) 击倒",
     "input": "623HK",
     "adv": 29,
     "type": "normal",
     "distance": "mid",
-    "description": "HK Aerial Knee Smash (623HK) 权威击倒+29帧！",
+    "description": "空中拦截膝碎 (重) (623HK) 权威击倒+29帧！",
     "tags": [
       "+29f",
       "必杀技"
@@ -450,12 +450,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_od_aerial_knee_smash",
     "characterId": "alex",
     "name": "OD Aerial Knee Smash KD",
-    "nameZh": "OD Aerial Knee Smash (623KK) 击倒",
+    "nameZh": "OD空中拦截膝碎 (623KK) 击倒",
     "input": "623KK",
     "adv": 27,
     "type": "normal",
     "distance": "mid",
-    "description": "OD Aerial Knee Smash (623KK) 权威击倒+27帧！",
+    "description": "OD空中拦截膝碎 (623KK) 权威击倒+27帧！",
     "tags": [
       "+27f",
       "必杀技"
@@ -465,12 +465,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_lp_power_bomb",
     "characterId": "alex",
     "name": "LP Power Bomb KD",
-    "nameZh": "LP Power Bomb (63214LP) 击倒",
+    "nameZh": "轻强力炸弹摔 (指令投) (63214LP) 击倒",
     "input": "63214LP",
     "adv": 15,
     "type": "throw",
     "distance": "close",
-    "description": "LP Power Bomb (63214LP) 权威击倒+15帧！",
+    "description": "轻强力炸弹摔 (指令投) (63214LP) 权威击倒+15帧！",
     "tags": [
       "+15f",
       "投技"
@@ -480,12 +480,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_mp_power_bomb",
     "characterId": "alex",
     "name": "MP Power Bomb KD",
-    "nameZh": "MP Power Bomb (63214MP) 击倒",
+    "nameZh": "中强力炸弹摔 (指令投) (63214MP) 击倒",
     "input": "63214MP",
     "adv": 15,
     "type": "throw",
     "distance": "close",
-    "description": "MP Power Bomb (63214MP) 权威击倒+15帧！",
+    "description": "中强力炸弹摔 (指令投) (63214MP) 权威击倒+15帧！",
     "tags": [
       "+15f",
       "投技"
@@ -495,12 +495,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_hp_power_bomb",
     "characterId": "alex",
     "name": "HP Power Bomb KD",
-    "nameZh": "HP Power Bomb (63214HP) 击倒",
+    "nameZh": "重强力炸弹摔 (指令投) (63214HP) 击倒",
     "input": "63214HP",
     "adv": 15,
     "type": "throw",
     "distance": "close",
-    "description": "HP Power Bomb (63214HP) 权威击倒+15帧！",
+    "description": "重强力炸弹摔 (指令投) (63214HP) 权威击倒+15帧！",
     "tags": [
       "+15f",
       "投技"
@@ -510,12 +510,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_od_power_bomb",
     "characterId": "alex",
     "name": "OD Power Bomb KD",
-    "nameZh": "OD Power Bomb (63214PP) 击倒",
+    "nameZh": "OD强力炸弹摔 (指令投) (63214PP) 击倒",
     "input": "63214PP",
     "adv": 15,
     "type": "throw",
     "distance": "close",
-    "description": "OD Power Bomb (63214PP) 权威击倒+15帧！",
+    "description": "OD强力炸弹摔 (指令投) (63214PP) 权威击倒+15帧！",
     "tags": [
       "+15f",
       "投技"
@@ -585,12 +585,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_raging_spear",
     "characterId": "alex",
     "name": "Raging Spear KD",
-    "nameZh": "Raging Spear (236236K) 击倒",
+    "nameZh": "狂暴之矛 (Lv.1 (SA1)) (236236K) 击倒",
     "input": "236236K",
     "adv": 30,
     "type": "super",
     "distance": "mid",
-    "description": "Raging Spear (236236K) 权威击倒+30帧！",
+    "description": "狂暴之矛 (Lv.1 (SA1)) (236236K) 权威击倒+30帧！",
     "tags": [
       "+30f",
       "超必杀"
@@ -600,12 +600,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_sledgecross_hammer",
     "characterId": "alex",
     "name": "Sledgecross Hammer KD",
-    "nameZh": "Sledgecross Hammer (214214P) 击倒",
+    "nameZh": "十字大铁锤 (Lv.2 (SA2)) (214214P) 击倒",
     "input": "214214P",
     "adv": 19,
     "type": "super",
     "distance": "mid",
-    "description": "Sledgecross Hammer (214214P) 权威击倒+19帧！",
+    "description": "十字大铁锤 (Lv.2 (SA2)) (214214P) 权威击倒+19帧！",
     "tags": [
       "+19f",
       "超必杀"
@@ -630,12 +630,12 @@ export const alexData: CharacterProfile = {
     "id": "kd_the_final_prison",
     "characterId": "alex",
     "name": "The Final Prison KD",
-    "nameZh": "The Final Prison (236236P) 击倒",
+    "nameZh": "终焉牢狱 (Lv.3 (SA3)) (236236P) 击倒",
     "input": "236236P",
     "adv": 18,
     "type": "super",
     "distance": "mid",
-    "description": "The Final Prison (236236P) 权威击倒+18帧！",
+    "description": "终焉牢狱 (Lv.3 (SA3)) (236236P) 权威击倒+18帧！",
     "tags": [
       "+18f",
       "超必杀"
@@ -661,7 +661,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "stand_lp",
     "name": "Stand LP",
-    "nameZh": "Stand LP",
+    "nameZh": "站轻拳",
     "input": "5LP",
     "category": "normal",
     "startup": 4,
@@ -678,7 +678,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "stand_mp",
     "name": "Stand MP",
-    "nameZh": "Stand MP",
+    "nameZh": "站中拳",
     "input": "5MP",
     "category": "normal",
     "startup": 7,
@@ -696,7 +696,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "stand_hp",
     "name": "Stand HP",
-    "nameZh": "Stand HP",
+    "nameZh": "站重拳",
     "input": "5HP",
     "category": "normal",
     "startup": 12,
@@ -713,7 +713,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "stand_hp_hold_",
     "name": "Stand HP (hold)",
-    "nameZh": "Stand HP (hold)",
+    "nameZh": "蓄力站重拳",
     "input": "5HP (hold)",
     "category": "normal",
     "startup": 23,
@@ -730,7 +730,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "stand_lk",
     "name": "Stand LK",
-    "nameZh": "Stand LK",
+    "nameZh": "站轻脚",
     "input": "5LK",
     "category": "normal",
     "startup": 6,
@@ -747,7 +747,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "stand_mk",
     "name": "Stand MK",
-    "nameZh": "Stand MK",
+    "nameZh": "站中脚",
     "input": "5MK",
     "category": "normal",
     "startup": 9,
@@ -764,7 +764,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "stand_hk",
     "name": "Stand HK",
-    "nameZh": "Stand HK",
+    "nameZh": "站重脚",
     "input": "5HK",
     "category": "normal",
     "startup": 16,
@@ -780,7 +780,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "stand_hk_hold_",
     "name": "Stand HK (hold)",
-    "nameZh": "Stand HK (hold)",
+    "nameZh": "蓄力站重脚",
     "input": "5HK (hold)",
     "category": "normal",
     "startup": 25,
@@ -796,7 +796,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "crouch_lp",
     "name": "Crouch LP",
-    "nameZh": "Crouch LP",
+    "nameZh": "下轻拳",
     "input": "2LP",
     "category": "normal",
     "startup": 5,
@@ -813,7 +813,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "crouch_mp",
     "name": "Crouch MP",
-    "nameZh": "Crouch MP",
+    "nameZh": "下中拳",
     "input": "2MP",
     "category": "normal",
     "startup": 8,
@@ -831,7 +831,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "crouch_hp",
     "name": "Crouch HP",
-    "nameZh": "Crouch HP",
+    "nameZh": "下重拳",
     "input": "2HP",
     "category": "normal",
     "startup": 9,
@@ -847,7 +847,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "crouch_lk",
     "name": "Crouch LK",
-    "nameZh": "Crouch LK",
+    "nameZh": "下轻脚",
     "input": "2LK",
     "category": "normal",
     "startup": 5,
@@ -864,7 +864,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "crouch_mk",
     "name": "Crouch MK",
-    "nameZh": "Crouch MK",
+    "nameZh": "下中脚",
     "input": "2MK",
     "category": "normal",
     "startup": 8,
@@ -881,7 +881,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "crouch_hk",
     "name": "Crouch HK",
-    "nameZh": "Crouch HK",
+    "nameZh": "下重脚",
     "input": "2HK",
     "category": "normal",
     "startup": 10,
@@ -897,7 +897,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "jump_lp",
     "name": "Jump LP",
-    "nameZh": "Jump LP",
+    "nameZh": "跳轻拳",
     "input": "8LP",
     "category": "normal",
     "startup": 5,
@@ -914,7 +914,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "jump_mp",
     "name": "Jump MP",
-    "nameZh": "Jump MP",
+    "nameZh": "跳中拳",
     "input": "8MP",
     "category": "normal",
     "startup": 7,
@@ -931,7 +931,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "jump_hp",
     "name": "Jump HP",
-    "nameZh": "Jump HP",
+    "nameZh": "跳重拳",
     "input": "8HP",
     "category": "normal",
     "startup": 9,
@@ -948,7 +948,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "jump_lk",
     "name": "Jump LK",
-    "nameZh": "Jump LK",
+    "nameZh": "跳轻脚",
     "input": "8LK",
     "category": "normal",
     "startup": 6,
@@ -965,7 +965,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "jump_mk",
     "name": "Jump MK",
-    "nameZh": "Jump MK",
+    "nameZh": "跳中脚",
     "input": "8MK",
     "category": "normal",
     "startup": 8,
@@ -982,7 +982,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "jump_hk",
     "name": "Jump HK",
-    "nameZh": "Jump HK",
+    "nameZh": "跳重脚",
     "input": "8HK",
     "category": "normal",
     "startup": 10,
@@ -999,7 +999,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "flying_cross_chop",
     "name": "Flying Cross Chop",
-    "nameZh": "Flying Cross Chop",
+    "nameZh": "飞身十字手刀",
     "input": "9 > 2HP",
     "category": "target_combo",
     "startup": 21,
@@ -1017,7 +1017,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "chop",
     "name": "Chop",
-    "nameZh": "Chop",
+    "nameZh": "下劈手刀",
     "input": "6MP",
     "category": "command_normal",
     "startup": 22,
@@ -1034,7 +1034,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "oblique_stomp",
     "name": "Oblique Stomp",
-    "nameZh": "Oblique Stomp",
+    "nameZh": "斜向践踏",
     "input": "4MK",
     "category": "command_normal",
     "startup": 7,
@@ -1051,7 +1051,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "palm_strikes",
     "name": "Palm Strikes",
-    "nameZh": "Palm Strikes",
+    "nameZh": "掌击目标连段",
     "input": "5MP > 5HP",
     "category": "target_combo",
     "startup": 15,
@@ -1067,7 +1067,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "twisted_drop",
     "name": "Twisted Drop",
-    "nameZh": "Twisted Drop",
+    "nameZh": "扭摔目标连段",
     "input": "2LK > 2HK",
     "category": "target_combo",
     "startup": 15,
@@ -1083,7 +1083,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "prowler_stance",
     "name": "Prowler Stance",
-    "nameZh": "Prowler Stance",
+    "nameZh": "潜行架势",
     "input": "2PP",
     "category": "command_normal",
     "startup": 18,
@@ -1099,7 +1099,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "prowler_stance_exit",
     "name": "Prowler Stance Exit",
-    "nameZh": "Prowler Stance Exit",
+    "nameZh": "解除潜行架势",
     "input": "2PP > 7/8/9",
     "category": "target_combo",
     "startup": 0,
@@ -1115,7 +1115,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "low_rush",
     "name": "Low Rush",
-    "nameZh": "Low Rush",
+    "nameZh": "潜行低身前冲",
     "input": "2PP > 6",
     "category": "target_combo",
     "startup": 0,
@@ -1131,7 +1131,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "low_retreat",
     "name": "Low Retreat",
-    "nameZh": "Low Retreat",
+    "nameZh": "潜行低身后撤",
     "input": "2PP > 4",
     "category": "target_combo",
     "startup": 0,
@@ -1147,7 +1147,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "slashing_elbow",
     "name": "Slashing Elbow",
-    "nameZh": "Slashing Elbow",
+    "nameZh": "潜行突刺手肘",
     "input": "2PP > 6P",
     "category": "target_combo",
     "startup": 12,
@@ -1163,7 +1163,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "palm_jab",
     "name": "Palm Jab",
-    "nameZh": "Palm Jab",
+    "nameZh": "潜行掌打",
     "input": "2PP > 5LP",
     "category": "target_combo",
     "startup": 4,
@@ -1180,7 +1180,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "shoulder_launcher",
     "name": "Shoulder Launcher",
-    "nameZh": "Shoulder Launcher",
+    "nameZh": "潜行铁肩冲天击",
     "input": "2PP > 5MP",
     "category": "target_combo",
     "startup": 7,
@@ -1196,7 +1196,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "heavy_lariat",
     "name": "Heavy Lariat",
-    "nameZh": "Heavy Lariat",
+    "nameZh": "强力金臂勾",
     "input": "2PP > 5HP",
     "category": "target_combo",
     "startup": 12,
@@ -1213,7 +1213,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "tactical_hop",
     "name": "Tactical Hop",
-    "nameZh": "Tactical Hop",
+    "nameZh": "潜行战术小跳",
     "input": "2PP > 5LK",
     "category": "target_combo",
     "startup": 22,
@@ -1229,7 +1229,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "air_stampede",
     "name": "Air Stampede",
-    "nameZh": "Air Stampede",
+    "nameZh": "潜行空中践踏",
     "input": "2PP > 5MK",
     "category": "target_combo",
     "startup": 30,
@@ -1245,7 +1245,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "sweep_combination_1",
     "name": "Sweep Combination 1",
-    "nameZh": "Sweep Combination 1",
+    "nameZh": "潜行扫堂踢组合1",
     "input": "2PP > 5HK",
     "category": "target_combo",
     "startup": 11,
@@ -1261,7 +1261,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "sweep_combination_2",
     "name": "Sweep Combination 2",
-    "nameZh": "Sweep Combination 2",
+    "nameZh": "潜行扫堂踢组合2",
     "input": "2PP > 5HK > 5HK",
     "category": "target_combo",
     "startup": 11,
@@ -1277,7 +1277,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "hyper_takedown",
     "name": "Hyper Takedown",
-    "nameZh": "Hyper Takedown",
+    "nameZh": "潜行超强抱摔",
     "input": "2PP > 5LPLK",
     "category": "throw",
     "startup": 5,
@@ -1293,7 +1293,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "dangerous_armbar",
     "name": "Dangerous Armbar",
-    "nameZh": "Dangerous Armbar",
+    "nameZh": "潜行危险十字固",
     "input": "2PP > 2LPLK",
     "category": "throw",
     "startup": 21,
@@ -1309,7 +1309,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "arm_lock",
     "name": "Arm Lock",
-    "nameZh": "Arm Lock",
+    "nameZh": "近身手臂锁摔 (前投)",
     "input": "5LPLK",
     "category": "throw",
     "startup": 5,
@@ -1325,7 +1325,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "guillotine_hammer",
     "name": "Guillotine Hammer",
-    "nameZh": "Guillotine Hammer",
+    "nameZh": "断头台重扣 (后投)",
     "input": "4LPLK",
     "category": "throw",
     "startup": 5,
@@ -1341,7 +1341,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "illegal_knees",
     "name": "Illegal Knees",
-    "nameZh": "Illegal Knees",
+    "nameZh": "违规膝击摔",
     "input": "2LPLK",
     "category": "throw",
     "startup": 5,
@@ -1357,7 +1357,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "drive_impact_lariat_kick",
     "name": "Drive Impact: Lariat Kick",
-    "nameZh": "Drive Impact: Lariat Kick",
+    "nameZh": "驱动迸发·金臂飞踢",
     "input": "HPHK",
     "category": "system",
     "startup": 26,
@@ -1373,7 +1373,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "drive_reversal_headbutt",
     "name": "Drive Reversal: Headbutt",
-    "nameZh": "Drive Reversal: Headbutt",
+    "nameZh": "驱动反击·铁头槌",
     "input": "6HPHK",
     "category": "system",
     "startup": 20,
@@ -1389,7 +1389,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "drive_parry",
     "name": "Drive Parry",
-    "nameZh": "Drive Parry",
+    "nameZh": "驱动化解 / 蓝防",
     "input": "MPMK",
     "category": "system",
     "startup": 1,
@@ -1406,7 +1406,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "drive_rush",
     "name": "Drive Rush",
-    "nameZh": "Drive Rush",
+    "nameZh": "驱动冲刺 / 绿冲",
     "input": "MPMK / 66 (cancel)",
     "category": "special",
     "startup": 9,
@@ -1423,7 +1423,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "taunt",
     "name": "Taunt",
-    "nameZh": "Taunt",
+    "nameZh": "挑衅",
     "input": "5PPPKKK",
     "category": "special",
     "startup": 0,
@@ -1439,7 +1439,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "lp_flash_axe",
     "name": "LP Flash Axe",
-    "nameZh": "LP Flash Axe",
+    "nameZh": "轻闪光战斧手刀",
     "input": "236LP",
     "category": "special",
     "startup": 13,
@@ -1456,7 +1456,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "mp_flash_axe",
     "name": "MP Flash Axe",
-    "nameZh": "MP Flash Axe",
+    "nameZh": "中闪光战斧手刀",
     "input": "236MP",
     "category": "special",
     "startup": 17,
@@ -1472,7 +1472,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "hp_flash_chop",
     "name": "HP Flash Chop",
-    "nameZh": "HP Flash Chop",
+    "nameZh": "重闪光手刀",
     "input": "236HP",
     "category": "special",
     "startup": 26,
@@ -1489,7 +1489,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "od_flash_chop",
     "name": "OD Flash Chop",
-    "nameZh": "OD Flash Chop",
+    "nameZh": "OD闪光手刀背摔",
     "input": "236PP",
     "category": "special",
     "startup": 15,
@@ -1505,7 +1505,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "lk_aerial_knee_smash",
     "name": "LK Aerial Knee Smash",
-    "nameZh": "LK Aerial Knee Smash",
+    "nameZh": "轻空中拦截膝碎",
     "input": "623LK",
     "category": "special",
     "startup": 6,
@@ -1521,7 +1521,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "mk_aerial_knee_smash",
     "name": "MK Aerial Knee Smash",
-    "nameZh": "MK Aerial Knee Smash",
+    "nameZh": "空中拦截膝碎 (中)",
     "input": "623MK",
     "category": "special",
     "startup": 8,
@@ -1537,7 +1537,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "hk_aerial_knee_smash",
     "name": "HK Aerial Knee Smash",
-    "nameZh": "HK Aerial Knee Smash",
+    "nameZh": "空中拦截膝碎 (重)",
     "input": "623HK",
     "category": "special",
     "startup": 14,
@@ -1553,7 +1553,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "od_aerial_knee_smash",
     "name": "OD Aerial Knee Smash",
-    "nameZh": "OD Aerial Knee Smash",
+    "nameZh": "OD空中拦截膝碎",
     "input": "623KK",
     "category": "special",
     "startup": 10,
@@ -1569,7 +1569,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "lp_power_bomb",
     "name": "LP Power Bomb",
-    "nameZh": "LP Power Bomb",
+    "nameZh": "轻强力炸弹摔 (指令投)",
     "input": "63214LP",
     "category": "special",
     "startup": 9,
@@ -1585,7 +1585,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "mp_power_bomb",
     "name": "MP Power Bomb",
-    "nameZh": "MP Power Bomb",
+    "nameZh": "中强力炸弹摔 (指令投)",
     "input": "63214MP",
     "category": "special",
     "startup": 7,
@@ -1601,7 +1601,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "hp_power_bomb",
     "name": "HP Power Bomb",
-    "nameZh": "HP Power Bomb",
+    "nameZh": "重强力炸弹摔 (指令投)",
     "input": "63214HP",
     "category": "special",
     "startup": 5,
@@ -1617,7 +1617,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "od_power_bomb",
     "name": "OD Power Bomb",
-    "nameZh": "OD Power Bomb",
+    "nameZh": "OD强力炸弹摔 (指令投)",
     "input": "63214PP",
     "category": "special",
     "startup": 5,
@@ -1633,7 +1633,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "power_drop",
     "name": "Power Drop",
-    "nameZh": "Power Drop",
+    "nameZh": "背身炸弹重摔",
     "input": "63214P (back turn)",
     "category": "special",
     "startup": 5,
@@ -1649,7 +1649,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "od_power_drop",
     "name": "OD Power Drop",
-    "nameZh": "OD Power Drop",
+    "nameZh": "OD背身炸弹重摔",
     "input": "63214PP (back turn)",
     "category": "special",
     "startup": 5,
@@ -1665,7 +1665,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "od_hyper_bomb",
     "name": "OD Hyper Bomb",
-    "nameZh": "OD Hyper Bomb",
+    "nameZh": "OD超绝连环炸弹摔",
     "input": "63214PP > 6 (back turn)",
     "category": "target_combo",
     "startup": 5,
@@ -1681,7 +1681,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "collapsing_driver",
     "name": "Collapsing Driver",
-    "nameZh": "Collapsing Driver",
+    "nameZh": "崩解打桩落",
     "input": "4MK (back turn)",
     "category": "special",
     "startup": 7,
@@ -1697,7 +1697,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "raging_spear",
     "name": "Raging Spear",
-    "nameZh": "Raging Spear",
+    "nameZh": "狂暴之矛 (Lv.1 (SA1))",
     "input": "236236K",
     "category": "super",
     "startup": 9,
@@ -1713,7 +1713,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "sledgecross_hammer",
     "name": "Sledgecross Hammer",
-    "nameZh": "Sledgecross Hammer",
+    "nameZh": "十字大铁锤 (Lv.2 (SA2))",
     "input": "214214P",
     "category": "super",
     "startup": 13,
@@ -1729,7 +1729,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "omega_wing_buster",
     "name": "Omega Wing Buster",
-    "nameZh": "Omega Wing Buster",
+    "nameZh": "欧米茄之翼重扣",
     "input": "5PP (after OD Power Drop)",
     "category": "special",
     "startup": 2,
@@ -1745,7 +1745,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "the_final_prison",
     "name": "The Final Prison",
-    "nameZh": "The Final Prison",
+    "nameZh": "终焉牢狱 (Lv.3 (SA3))",
     "input": "236236P",
     "category": "super",
     "startup": 12,
@@ -1761,7 +1761,7 @@ export const alexData: CharacterProfile = {
   {
     "id": "the_final_prison_critical_art_",
     "name": "The Final Prison (Critical Art)",
-    "nameZh": "The Final Prison (Critical Art)",
+    "nameZh": "终焉牢狱 (致命伤害 (CA))",
     "input": "236236P (CA)",
     "category": "super",
     "startup": 12,
